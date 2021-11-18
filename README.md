@@ -22,7 +22,7 @@
 
 順便一提，一畝三分地論壇還經常提到另一本書：[Programming Interview Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/?&_encoding=UTF8&tag=1point3acres-20&linkCode=ur2&linkId=f4a9f284abef2e91bbc0bc39a9cc3967&camp=1789&creative=9325)，這本書更基礎一點，非科班零基礎的小白可以嘗試先從這本書入手。
 
-最後，譯者在此建議，有能力的讀者最好還是去閱讀本書的英文原版。
+最後，在此建議，有能力的讀者最好還是去閱讀本書的英文原版。
 
 ## 目錄
 
@@ -75,6 +75,8 @@
 
 註：本書的 `X. 答案` 部分為編碼答案，本項目中不做翻譯收錄，需要閱讀的同學可以閱讀英文原版，或者 *CareerCup* 的這個項目：https://github.com/careercup/CtCI-6th-Edition 。
 
+
+<!---
 ## 法律聲明
 
 > 《中華人民共和國著作權法》
@@ -91,3 +93,4 @@
 本項目中的文檔是根據 CC BY-NC-SA 4.0 許可協議授權的，該協議鼓勵您共用這些文檔。
 
 詳情見：[署名-非商業性使用-相同方式共用 4.0 國際  (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+-->
