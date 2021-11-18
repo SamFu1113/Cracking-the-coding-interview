@@ -2,7 +2,7 @@
 
 - 作者： [Gayle Laakmann McDowell](http://www.gayle.com/contact/)
 - 原書名稱：[Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
-- 譯者：[F8F-1BearCat](https://f8f-1bearcat.github.io/about/) 
+[comment]: <> (- 譯者：[F8F-1BearCat](https://f8f-1bearcat.github.io/about/) )
 
 <div align=center><img src="img/Cover.jpg"/></div>
 
