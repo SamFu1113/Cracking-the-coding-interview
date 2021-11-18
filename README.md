@@ -2,13 +2,15 @@
 
 - 作者： [Gayle Laakmann McDowell](http://www.gayle.com/contact/)
 - 原書名稱：[Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
-[comment]: <> (- 譯者：[F8F-1BearCat](https://f8f-1bearcat.github.io/about/))
+<!---
+- 譯者：[F8F-1BearCat](https://f8f-1bearcat.github.io/about/)
+-->
 
 <div align=center><img src="img/Cover.jpg"/></div>
 
 
 
-## 譯者序
+## 序
 
 [comment]: <> (譯者摸魚的時候喜歡逛一畝三分地論壇，在 `終身學習>刷題` 板塊里偶然發現了 CtCI 這本書。本書被譽為北美碼農求職面試經典書籍，因書中包含 189 道編碼題，所以也被稱為 CC189，更早的版本為 CC150。)
 
