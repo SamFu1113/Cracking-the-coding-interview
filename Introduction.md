@@ -10,9 +10,13 @@ one of the best computer science schools in the world, and has done a lot of wor
 
 But I have to agree with other members of the committee: these data do not explain the problem. Even if my strong recommendation can convince them to reconsider, he will definitely be eliminated in the subsequent recruitment process. 
 
-Because he exposed too many red flags.
+Because he exposed too many red flags. Although he is very smart, he is very difficult to solve the interview questions. The first question in the interview is a variant of a classic question. Most successful job applicants can answer quickly, 
 
-虽然他很聪明，但是在解决面试问题时他却表现得很艰难。面试中的第一个问题是一个经典问题的变形，大多数成功的求职者都能快速做出回答，但是他却在这个问题的算法开发时遇到了麻烦。当他提出一个方案时，没有考虑到针对其他场景优化的解决方案。最终在编码时，他用最初的解决思路快速地写完了代码，但是代码中却充满了他没有留意到的错误。尽管从任何角度来看，他都不是我们所见过的最差的候选人，但是他离 “bar” （译者注，标杆）还差得很远。所以，拒绝。
+but he has trouble with the algorithm development of this question. When he proposed a plan, he did not consider a solution optimized for other scenarios. In the end, when coding, he quickly finished the code with the original solution idea, 
+
+but the code was full of errors that he hadn't noticed. Although from any point of view, he is not the worst candidate we have ever seen, but he is far from "bar" (translator's note, benchmark). So, refuse.
+
+
 
 几周后，当他在电话中询问反馈时，我很纠结不知道该怎么回答他。更聪明？不，我知道他很聪明。成为更好的 coder？不，他的技术和我见过的一些最好的不相上下。
 
