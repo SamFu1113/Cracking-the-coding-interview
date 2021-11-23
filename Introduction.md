@@ -4,7 +4,9 @@
 
 	We walked out of the job fair again in frustration. None of the 10 candidates surveyed that day will receive an offer. We are thinking, are we too harsh?
 
-我尤其感到失望。我们拒绝了我的一位候选人。他是我之前教过的一个学生。他在世界上最好的计算机科学学校之一华盛顿大学取得了 3.73 的 GPA，并在开源项目上做了大量工作。他精力充沛。他很有创造性。他很敏锐。他工作努力。他在所有方面都是一个真正的极客。
+I am especially disappointed. We rejected one of my candidates. He is a student I have taught before. He obtained a 3.73 GPA at the University of Washington, 
+
+one of the best computer science schools in the world, and has done a lot of work on open source projects. He is full of energy. He is very creative. He is very keen. He works hard. He is a true geek in all aspects.
 
 但我不得不同意委员会其他成员的观点：这些数据并不能说明问题。即使我强烈的推荐能够说服他们重新考虑，他也肯定会在后面的招聘流程中遭到淘汰。因为他暴露了太多的危险信号（red flag）。
 
