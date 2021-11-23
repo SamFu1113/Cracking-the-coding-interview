@@ -8,7 +8,9 @@ I am especially disappointed. We rejected one of my candidates. He is a student 
 
 one of the best computer science schools in the world, and has done a lot of work on open source projects. He is full of energy. He is very creative. He is very keen. He works hard. He is a true geek in all aspects.
 
-但我不得不同意委员会其他成员的观点：这些数据并不能说明问题。即使我强烈的推荐能够说服他们重新考虑，他也肯定会在后面的招聘流程中遭到淘汰。因为他暴露了太多的危险信号（red flag）。
+But I have to agree with other members of the committee: these data do not explain the problem. Even if my strong recommendation can convince them to reconsider, he will definitely be eliminated in the subsequent recruitment process. 
+
+Because he exposed too many red flags.
 
 虽然他很聪明，但是在解决面试问题时他却表现得很艰难。面试中的第一个问题是一个经典问题的变形，大多数成功的求职者都能快速做出回答，但是他却在这个问题的算法开发时遇到了麻烦。当他提出一个方案时，没有考虑到针对其他场景优化的解决方案。最终在编码时，他用最初的解决思路快速地写完了代码，但是代码中却充满了他没有留意到的错误。尽管从任何角度来看，他都不是我们所见过的最差的候选人，但是他离 “bar” （译者注，标杆）还差得很远。所以，拒绝。
 
