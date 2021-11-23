@@ -18,8 +18,8 @@ but the code was full of errors that he hadn't noticed. Although from any point 
 
 
 
-几周后，当他在电话中询问反馈时，我很纠结不知道该怎么回答他。更聪明？不，我知道他很聪明。成为更好的 coder？不，他的技术和我见过的一些最好的不相上下。
-
+	A few weeks later, when he asked for feedback on the phone, I was struggling not to know how to answer him. smarter? No, I know he is very smart. To be a better coder? No, his technique is comparable to some of the best I have ever seen.
+	
 像许多积极的求职者一样，他准备得很充分。他读过 K&R 的经典 C 语言书籍，也复习过 CLRS 著名的算法教科书。他可以详细描述平衡树的无数种方法，而且他可以用 C 语言做一些没有任何理智的程序员会考虑做的事情。
 
 我不得不告诉他一个不幸的事实：仅仅看那些书是不够的。学术书籍能让你为新奇的研究做好准备，它们可能会让你成为一名更好的软件工程师，但它们不足以应对面试。为什么？我给你个提示：你的面试官没有见过红黑树，因为他们在学校也是如此。
