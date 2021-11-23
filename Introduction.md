@@ -2,7 +2,7 @@
 
 #### Where is wrong
 
-We walked out of the job fair again in frustration. None of the 10 candidates surveyed that day will receive an offer. We are thinking, are we too harsh?
+	We walked out of the job fair again in frustration. None of the 10 candidates surveyed that day will receive an offer. We are thinking, are we too harsh?
 
 我尤其感到失望。我们拒绝了我的一位候选人。他是我之前教过的一个学生。他在世界上最好的计算机科学学校之一华盛顿大学取得了 3.73 的 GPA，并在开源项目上做了大量工作。他精力充沛。他很有创造性。他很敏锐。他工作努力。他在所有方面都是一个真正的极客。
 
