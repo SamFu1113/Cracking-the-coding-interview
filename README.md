@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;By the way, the Yimu Sanfendi forum often mentions another book: [Programming Interview Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/?&_encoding=UTF8&tag=1point3acres-20&linkCode=ur2&linkId=f4a9f284abef2e91bbc0bc39a9cc3967&camp=1789&creative=9325), this book is a bit more basic, non-science students with zero foundation can try to start with this book.
 
-Finally, I suggest that capable readers should read the original English version of this book.
+&nbsp;&nbsp;&nbsp;&nbsp;Finally, I suggest that capable readers should read the original English version of this book.
 
 ## Contents
 
