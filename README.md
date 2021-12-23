@@ -20,7 +20,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Just like reading the OG before taking the GMAT, this book is an introductory book for programming interviews. If you have worked for many years and need to pick up data structures and algorithms again, this book is suitable for you; but if you are a big cow who has played algorithmic competitions such as ACM or engaged in algorithms-related work, then this book is You can skip it directly. Since it is oriented to coding interviews, this book can't avoid its utilitarian nature. If you just want to learn algorithms, you can read Programming Pearls and other books. Compared with the actual interview, the topic of this book is still slightly simpler. If you want to improve it further, it is recommended to go to Leetcode to write the questions and digest and summarize by yourself.
 
-By the way, the Yimu Sanfendi forum often mentions another book: [Programming Interview Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/?&_encoding=UTF8&tag=1point3acres-20&linkCode=ur2&linkId=f4a9f284abef2e91bbc0bc39a9cc3967&camp=1789&creative=9325), this book is a bit more basic, non-science students with zero foundation can try to start with this book.
+&nbsp;&nbsp;&nbsp;&nbsp;By the way, the Yimu Sanfendi forum often mentions another book: [Programming Interview Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/?&_encoding=UTF8&tag=1point3acres-20&linkCode=ur2&linkId=f4a9f284abef2e91bbc0bc39a9cc3967&camp=1789&creative=9325), this book is a bit more basic, non-science students with zero foundation can try to start with this book.
 
 Finally, I suggest that capable readers should read the original English version of this book.
 
