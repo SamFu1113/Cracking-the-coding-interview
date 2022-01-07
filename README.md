@@ -47,8 +47,8 @@
 
 **Concepts and Algorithms**
 
-- [Chapter 5 I Bit Operation](Chapter_5_Bit_Manipulation.md)\
-- [Chapter 6 I Math and Logic Puzzles](Chapter_6_Math_and_Logic_Puzzles.md)\
+- [Chapter 5 I Bit Operation](Chapter_5_Bit_Manipulation.md)&nbsp;
+- [Chapter 6 I Math and Logic Puzzles](Chapter_6_Math_and_Logic_Puzzles.md)&nbsp;
 -[Chapter 7 I Object-Oriented Design](Chapter_7_Object-Oriented_Design.md)
 -[Chapter 8 I Recursion and Dynamic Programming](Chapter_8_Recursion_and_Dynamic_Programming.md)
 -[Chapter 9 I System Design and Scalability](Chapter_9_System_Design_and_Scalability.md)
