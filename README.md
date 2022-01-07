@@ -40,10 +40,10 @@
 
 **data structure**
 
-- [Chapter 1 I Arrays and Strings](Chapter_1_Arrays_and_Strings.md)\
-- [Chapter 2 I Linked List](Chapter_2_Linked_Lists.md)\
-- [Chapter 3 I Stacks and Queues](Chapter_3_Stacks_and_Queues.md)\
-- [Chapter 4 I Trees and Graphs](Chapter_4_Trees_and_Graphs.md)\
+- [Chapter 1 I Arrays and Strings](Chapter_1_Arrays_and_Strings.md)&nbsp;
+- [Chapter 2 I Linked List](Chapter_2_Linked_Lists.md)&nbsp;
+- [Chapter 3 I Stacks and Queues](Chapter_3_Stacks_and_Queues.md)&nbsp;
+- [Chapter 4 I Trees and Graphs](Chapter_4_Trees_and_Graphs.md)&nbsp;
 
 **Concepts and Algorithms**
 
