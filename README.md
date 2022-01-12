@@ -51,7 +51,7 @@
 - [Chapter 6 I Math and Logic Puzzles](Chapter_6_Math_and_Logic_Puzzles.md)&nbsp;
 - [Chapter 7 I Object-Oriented Design](Chapter_7_Object-Oriented_Design.md)&nbsp;
 - [Chapter 8 I Recursion and Dynamic Programming](Chapter_8_Recursion_and_Dynamic_Programming.md)&nbsp;
-- [Chapter 9 I System Design and Scalability](Chapter_9_System_Design_and_Scalability.md)&nbsp;
+-[Chapter 9 I System Design and Scalability](Chapter_9_System_Design_and_Scalability.md)
 -[Chapter 10 I Sorting and Searching](Chapter_10_Sorting_and_Searching.md)
 -[Chapter 11 I Test](Chapter_11_Testing.md)
 
