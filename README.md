@@ -59,7 +59,7 @@
 
 - [Chapter 12 I C and C++](Chapter_12_C_and_C++.md)&nbsp;
 - [Chapter 13 I Java](Chapter_13_Java.md)&nbsp;
--[Chapter 14 I Database](Chapter_14_Databases.md)
+- [Chapter 14 I Database](Chapter_14_Databases.md)&nbsp;
 -[Chapter 15 I Threads and Locks](Chapter_15_Threads_and_Locks.md)
 
 **Additional review questions**
