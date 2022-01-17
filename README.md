@@ -1,6 +1,6 @@
 # Cracking the coding interview
 
--Author: [Gayle Laakmann McDowell](http://www.gayle.com/contact/)&nbsp;
+-Author: [Gayle Laakmann McDowell](http://www.gayle.com/contact/) &nbsp;
 -Original book name: [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850)
 <!---
 -Translator: [F8F-1BearCat](https://f8f-1bearcat.github.io/about/)
