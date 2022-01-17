@@ -64,7 +64,7 @@
 
 **Additional review questions**
 
--[Chapter 16 I Moderate](Chapter_16_Moderate.md)
+- [Chapter 16 I Moderate](Chapter_16_Moderate.md)&nbsp;
 -[Chapter 17 I Hard](Chapter_17_Hard.md)
 
 #### [X. Answer](https://github.com/careercup/CtCI-6th-Edition)
