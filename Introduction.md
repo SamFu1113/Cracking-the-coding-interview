@@ -16,9 +16,7 @@ but the code was full of errors that he hadn't noticed. Although from any point 
 
 &nbsp;&nbsp;&nbsp;&nbsp;A few weeks later, when he asked for feedback on the phone, I was struggling not to know how to answer him. smarter? No, I know he is very smart. To be a better coder? No, his technique is comparable to some of the best I have ever seen.
 	
-&nbsp;&nbsp;&nbsp;&nbsp;Like many active job seekers, he is well prepared. He has read K&R's classic C language books, and also reviewed CLRS's famous algorithm textbook. He can describe countless ways of balancing trees in detail, 
-
-and he can use C to do things that no sane programmer would consider doing.
+&nbsp;&nbsp;&nbsp;&nbsp;Like many active job seekers, he is well prepared. He has read K&R's classic C language books, and also reviewed CLRS's famous algorithm textbook. He can describe countless ways of balancing trees in detail, and he can use C to do things that no sane programmer would consider doing.
 
 我不得不告诉他一个不幸的事实：仅仅看那些书是不够的。学术书籍能让你为新奇的研究做好准备，它们可能会让你成为一名更好的软件工程师，但它们不足以应对面试。为什么？我给你个提示：你的面试官没有见过红黑树，因为他们在学校也是如此。
 
