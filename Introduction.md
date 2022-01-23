@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;We walked out of the job fair again in frustration. None of the 10 candidates surveyed that day will receive an offer. We are thinking, are we too harsh? I am especially disappointed. We rejected one of my candidates. He is a student I have taught before. He obtained a 3.73 GPA at the University of Washington, one of the best computer science schools in the world, and has done a lot of work on open source projects. He is full of energy. He is very creative. He is very keen. He works hard. He is a true geek in all aspects.
 
-But I have to agree with other members of the committee: these data do not explain the problem. Even if my strong recommendation can convince them to reconsider, he will definitely be eliminated in the subsequent recruitment process. 
+&nbsp;&nbsp;&nbsp;&nbsp;But I have to agree with other members of the committee: these data do not explain the problem. Even if my strong recommendation can convince them to reconsider, he will definitely be eliminated in the subsequent recruitment process. 
 
 Because he exposed too many red flags. Although he is very smart, he is very difficult to solve the interview questions. The first question in the interview is a variant of a classic question. Most successful job applicants can answer quickly, 
 
