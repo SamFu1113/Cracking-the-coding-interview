@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;But I have to agree with other members of the committee: these data do not explain the problem. Even if my strong recommendation can convince them to reconsider, he will definitely be eliminated in the subsequent recruitment process. 
 
-Because he exposed too many red flags. Although he is very smart, he is very difficult to solve the interview questions. The first question in the interview is a variant of a classic question. Most successful job applicants can answer quickly, 
+&nbsp;&nbsp;&nbsp;&nbsp;Because he exposed too many red flags. Although he is very smart, he is very difficult to solve the interview questions. The first question in the interview is a variant of a classic question. Most successful job applicants can answer quickly, 
 
 but he has trouble with the algorithm development of this question. When he proposed a plan, he did not consider a solution optimized for other scenarios. In the end, when coding, he quickly finished the code with the original solution idea, 
 
