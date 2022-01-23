@@ -16,7 +16,7 @@ but the code was full of errors that he hadn't noticed. Although from any point 
 
 &nbsp;&nbsp;&nbsp;&nbsp;A few weeks later, when he asked for feedback on the phone, I was struggling not to know how to answer him. smarter? No, I know he is very smart. To be a better coder? No, his technique is comparable to some of the best I have ever seen.
 	
-Like many active job seekers, he is well prepared. He has read K&R's classic C language books, and also reviewed CLRS's famous algorithm textbook. He can describe countless ways of balancing trees in detail, 
+&nbsp;&nbsp;&nbsp;&nbsp;Like many active job seekers, he is well prepared. He has read K&R's classic C language books, and also reviewed CLRS's famous algorithm textbook. He can describe countless ways of balancing trees in detail, 
 
 and he can use C to do things that no sane programmer would consider doing.
 
