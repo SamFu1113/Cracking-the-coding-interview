@@ -18,7 +18,7 @@ but the code was full of errors that he hadn't noticed. Although from any point 
 	
 &nbsp;&nbsp;&nbsp;&nbsp;Like many active job seekers, he is well prepared. He has read K&R's classic C language books, and also reviewed CLRS's famous algorithm textbook. He can describe countless ways of balancing trees in detail, and he can use C to do things that no sane programmer would consider doing.
 
-&nbsp;&nbsp;&nbsp;&nbsp;I had to tell him an unfortunate fact that just reading those books is not enoug. Academic books can prepare you for novel research, and they might make you a better software enginee, but they are not enough for interviews. Why?我给你个提示：你的面试官没有见过红黑树，因为他们在学校也是如此。
+&nbsp;&nbsp;&nbsp;&nbsp;I had to tell him an unfortunate fact that just reading those books is not enoug. Academic books can prepare you for novel research, and they might make you a better software enginee, but they are not enough for interviews. Why? Let me give you a hint, 你的面试官没有见过红黑树，因为他们在学校也是如此。
 
 要破解编码面试，你需要准备真实的面试问题。你必须对实际问题进行练习，并学习它们的模式。最终能实现灵活开发新的算法，而不是死记硬背现有的问题。
 
