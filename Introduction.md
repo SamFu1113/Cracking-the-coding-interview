@@ -20,7 +20,7 @@ but the code was full of errors that he hadn't noticed. Although from any point 
 
 &nbsp;&nbsp;&nbsp;&nbsp;I had to tell him an unfortunate fact that just reading those books is not enoug. Academic books can prepare you for novel research, and they might make you a better software enginee, but they are not enough for interviews. Why? Let me give you a hint, which is your interviewer has not seen a red-black tree because they were in school either.
 
-&nbsp;&nbsp;&nbsp;&nbsp;To crack a coding interview, 你需要准备真实的面试问题。你必须对实际问题进行练习，并学习它们的模式。最终能实现灵活开发新的算法，而不是死记硬背现有的问题。
+&nbsp;&nbsp;&nbsp;&nbsp;To crack a coding interview, you need to prepare real interview questions. 你必须对实际问题进行练习，并学习它们的模式。最终能实现灵活开发新的算法，而不是死记硬背现有的问题。
 
 **Cracking the Coding Interview** 一书是我根据在一线公司参与面试并在之后指导求职者通过面试的第一手经验所总结的成果。它是与求职者数百次对话的成果。它是汇总候选人和面试官提出的数千个问题的成果。它也是参考了这么多公司的这么多面试问题的成果。本书收录了 189 个最好的面试问题，这是从成千上万个可能的问题中挑选出来的。
 
