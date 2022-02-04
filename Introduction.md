@@ -23,7 +23,7 @@ but the code was full of errors that he hadn't noticed. Although from any point 
 &nbsp;&nbsp;&nbsp;&nbsp;To crack a coding interview, you need to prepare real interview questions. You have to practice on real problems, and learn their patterns.
 Ultimately you will enable to develope flexible and new algorithms, rather than rote existing problems.
 
-**Cracking the Coding Interview** 
+**Cracking the Coding Interview**  
 &nbsp;&nbsp;&nbsp;&nbsp;This book is based on my first-hand experience in interviewing at front-line companies and then guiding job candidates through interviews. It is the result of hundreds of conversations with job candidates. 它是汇总候选人和面试官提出的数千个问题的成果。它也是参考了这么多公司的这么多面试问题的成果。本书收录了 189 个最好的面试问题，这是从成千上万个可能的问题中挑选出来的。
 
 #### 我的方法
