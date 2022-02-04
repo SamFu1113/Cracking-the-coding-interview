@@ -24,8 +24,7 @@ but the code was full of errors that he hadn't noticed. Although from any point 
 Ultimately you will enable to develope flexible and new algorithms, rather than rote existing problems.
 
 **Cracking the Coding Interview**  
-&nbsp;&nbsp;&nbsp;&nbsp;This book is based on my first-hand experience in interviewing at front-line companies and then guiding job candidates through interviews. It is the result of hundreds of conversations with job candidates. It is the result of aggregating thousands of questions from candidates and interviewers.
-它也是参考了这么多公司的这么多面试问题的成果。本书收录了 189 个最好的面试问题，这是从成千上万个可能的问题中挑选出来的。
+&nbsp;&nbsp;&nbsp;&nbsp;This book is based on my first-hand experience in interviewing at front-line companies and then guiding job candidates through interviews. It is the result of hundreds of conversations with job candidates. It is the result of aggregating thousands of questions from candidates and interviewers. It is also the result of referencing so many interview questions from so many companies. 本书收录了 189 个最好的面试问题，这是从成千上万个可能的问题中挑选出来的。
 
 #### 我的方法
 
