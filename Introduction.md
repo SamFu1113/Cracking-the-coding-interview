@@ -26,7 +26,7 @@ Ultimately you will enable to develope flexible and new algorithms, rather than 
 **Cracking the Coding Interview**  
 &nbsp;&nbsp;&nbsp;&nbsp;This book is based on my first-hand experience in interviewing at front-line companies and then guiding job candidates through interviews. It is the result of hundreds of conversations with job candidates. It is the result of aggregating thousands of questions from candidates and interviewers. It is also the result of referencing so many interview questions from so many companies. This book contains 189 of the best interview questions, This is selected from thousands of possible problems.  
 
-#### 我的方法
+#### My method
 
 **Cracking the Coding Interview** 的重点是算法、编码和设计问题。为什么？因为虽然你可以也会被问到工作经验方面的问题（behavioral question），但答案会和你的简历一样五花八门。同样，虽然许多公司会问一些所谓的 “trivia” 问题（例如，“什么是虚拟功能？”），但是通过实践这些问题而获得的技能仅限于非常具体的知识。本书将简要介绍其中的一些问题，向你展示它们是什么样的，但我选择将空间分配给需要学习更多内容的领域。
 
