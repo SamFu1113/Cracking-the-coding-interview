@@ -28,7 +28,7 @@ Ultimately you will enable to develope flexible and new algorithms, rather than 
 
 #### My method
 
-**Cracking the Coding Interview** focuses on algorithms, coding and design Issues Why? Although you will be asked about work experienc such as behavioral questions, 但答案会和你的简历一样五花八门。同样，虽然许多公司会问一些所谓的 “trivia” 问题（例如，“什么是虚拟功能？”），但是通过实践这些问题而获得的技能仅限于非常具体的知识。本书将简要介绍其中的一些问题，向你展示它们是什么样的，但我选择将空间分配给需要学习更多内容的领域。
+**Cracking the Coding Interview** focuses on algorithms, coding and design Issues Why? Although you will be asked about work experienc such as behavioral questions, the answers will be as varied as your resume. 同样，虽然许多公司会问一些所谓的 “trivia” 问题（例如，“什么是虚拟功能？”），但是通过实践这些问题而获得的技能仅限于非常具体的知识。本书将简要介绍其中的一些问题，向你展示它们是什么样的，但我选择将空间分配给需要学习更多内容的领域。
 
 #### 我的爱好
 
