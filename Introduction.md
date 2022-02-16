@@ -33,8 +33,7 @@ Ultimately you will enable to develope flexible and new algorithms, rather than 
 #### My hobby
 
 Teaching is my hobby. I love helping people understand new concepts, and provide them with tools to help them excel in their field of passion.
-
-我第一次正式的教学经历是宾夕法尼亚大学，当时我在第二年成为一名计算机科学本科课程的助教。我接受了 TA 的其他几门课程，最后我在那里开设了自己的计算机科学课程，侧重于实践技能。
+My first formal teaching experience was at the University of Pennsylvania, 当时我在第二年成为一名计算机科学本科课程的助教。我接受了 TA 的其他几门课程，最后我在那里开设了自己的计算机科学课程，侧重于实践技能。
 
 作为 Google 的工程师，培训和指导新工程师是我最喜欢的事情之一。我甚至利用我的 “20％ 时间” 在华盛顿大学教授两门计算机科学课程。
 
