@@ -32,7 +32,7 @@ Ultimately you will enable to develope flexible and new algorithms, rather than 
 
 #### My hobby
 
-Teaching is my hobby. I love helping people understand new concepts, 并为他们提供工具来帮助他们在他们爱好的领域中脱颖而出。
+Teaching is my hobby. I love helping people understand new concepts, and provide them with tools to help them excel in their field of passion.
 
 我第一次正式的教学经历是宾夕法尼亚大学，当时我在第二年成为一名计算机科学本科课程的助教。我接受了 TA 的其他几门课程，最后我在那里开设了自己的计算机科学课程，侧重于实践技能。
 
