@@ -28,7 +28,7 @@ Ultimately you will enable to develope flexible and new algorithms, rather than 
 
 #### My method
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Cracking the Coding Interview** focuses on algorithms, coding and design Issues Why? Although you will be asked about work experienc such as behavioral questions, the answers will be as varied as your resume. Similarly, although many companies will ask some so-called "trivial" questions(eg, What is a virtual function?), the skills gained by practicing these questions are limited to very specific knowledge. 本书将简要介绍其中的一些问题，向你展示它们是什么样的，但我选择将空间分配给需要学习更多内容的领域。
+&nbsp;&nbsp;&nbsp;&nbsp;**Cracking the Coding Interview** focuses on algorithms, coding and design Issues Why? Although you will be asked about work experienc such as behavioral questions, the answers will be as varied as your resume. Similarly, although many companies will ask some so-called "trivial" questions(eg, What is a virtual function?), the skills gained by practicing these questions are limited to very specific knowledge. This book will briefly address some of these issues, 向你展示它们是什么样的，但我选择将空间分配给需要学习更多内容的领域。
 
 #### My hobby
 
