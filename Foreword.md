@@ -1,6 +1,6 @@
 ## Preface
 
-亲爱的读者，
+Dear Reader,
 
 让我们先来介绍一下。
 
