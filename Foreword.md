@@ -1,8 +1,6 @@
 ## Preface
 
-Dear Reader,
-
-让我们先来介绍一下。
+Dear Reader, let's start with an introduction.
 
 我不是招聘人员。我是一名软件工程师。正因如此，我知道被要求当场拿出精彩的算法然后在白板上编写出完美的代码是什么感觉。我之所以知道，是因为我被要求做过同样的事情——在 Google、Microsoft、Apple 和 Amazon 以及其他公司的面试中。
 
