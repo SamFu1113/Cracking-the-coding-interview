@@ -39,7 +39,7 @@ My first formal teaching experience was at the University of Pennsylvania, at th
 
 &nbsp;&nbsp;&nbsp;&nbsp;Many years later, I continue to teach computer science concepts, but this time the goal is to get the startup's engineers to prepare for their acquisition interview.  I have seen their mistakes and efforts and developed techniques and strategies to help them solve these problems.
 
-**Cracking the Coding Interview**、**Cracking the PM Interview**、**Cracking the Tech Career** 和 **CareerCup**，都体现了我对教学的热爱。即使是现在，你也经常可以在 *CareerCup.com* 上看到我在 “闲逛”，以帮助那些寻求帮助的用户。
+**Cracking the Coding Interview**, **Cracking the PM Interview**, **Cracking the Tech Career** and **CareerCup**, 都体现了我对教学的热爱。即使是现在，你也经常可以在 *CareerCup.com* 上看到我在 “闲逛”，以帮助那些寻求帮助的用户。
 
 加入我们。
 
