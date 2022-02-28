@@ -35,7 +35,7 @@ Ultimately you will enable to develope flexible and new algorithms, rather than 
 Teaching is my hobby. I love helping people understand new concepts, and provide them with tools to help them excel in their field of passion.
 My first formal teaching experience was at the University of Pennsylvania, at the time I was in my second year as a teaching assistant in a computer science undergraduate program. I took several other courses from TA, I ended up doing my own computer science course there, and focus on practical skills.
 
-作为 Google 的工程师，培训和指导新工程师是我最喜欢的事情之一。我甚至利用我的 “20％ 时间” 在华盛顿大学教授两门计算机科学课程。
+As an engineer at Google, 培训和指导新工程师是我最喜欢的事情之一。我甚至利用我的 “20％ 时间” 在华盛顿大学教授两门计算机科学课程。
 
 多年后的今天，我继续教授计算机科学的概念，但这一次的目标是让初创公司的工程师为他们的 acquisition interview 做准备。我已经看到他们的错误和努力，并且为帮助他们解决这些问题制定了技术和策略。
 
