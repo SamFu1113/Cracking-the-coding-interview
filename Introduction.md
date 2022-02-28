@@ -37,7 +37,7 @@ My first formal teaching experience was at the University of Pennsylvania, at th
 
 As an engineer at Google, training and mentoring new engineers is one of my favorite things.  I even use my "20% time" to teach two computer science courses at the University of Washington.
 
-Many years later, I continue to teach computer science concepts,但这一次的目标是让初创公司的工程师为他们的 acquisition interview 做准备。我已经看到他们的错误和努力，并且为帮助他们解决这些问题制定了技术和策略。
+Many years later, I continue to teach computer science concepts, but this time the goal is to get the startup's engineers to prepare for their acquisition interview.我已经看到他们的错误和努力，并且为帮助他们解决这些问题制定了技术和策略。
 
 **Cracking the Coding Interview**、**Cracking the PM Interview**、**Cracking the Tech Career** 和 **CareerCup**，都体现了我对教学的热爱。即使是现在，你也经常可以在 *CareerCup.com* 上看到我在 “闲逛”，以帮助那些寻求帮助的用户。
 
