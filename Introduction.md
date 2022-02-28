@@ -32,7 +32,7 @@ Ultimately you will enable to develope flexible and new algorithms, rather than 
 
 #### My hobby
 
-Teaching is my hobby. I love helping people understand new concepts, and provide them with tools to help them excel in their field of passion.
+&nbsp;&nbsp;&nbsp;&nbsp;Teaching is my hobby. I love helping people understand new concepts, and provide them with tools to help them excel in their field of passion.
 My first formal teaching experience was at the University of Pennsylvania, at the time I was in my second year as a teaching assistant in a computer science undergraduate program. I took several other courses from TA, I ended up doing my own computer science course there, and focus on practical skills.
 
 As an engineer at Google, training and mentoring new engineers is one of my favorite things.  I even use my "20% time" to teach two computer science courses at the University of Washington.
