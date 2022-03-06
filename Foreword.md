@@ -3,9 +3,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Dear Reader, let's start with an introduction. I am not a recruiter. I am a software engineer. Therefore, I know what it's like to be asked to come up with a brilliant algorithm on the spot and then write the perfect code on a whiteboard. The reason I know it's because I've been asked to do the same thing in interviews at Google, Microsoft, Apple and Amazon and others.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Besides, I also stood on the other side of the table and asked my candidates to do the same thing. I used to find engineers who I thought might pass the interview, and looked through piles of resumes. I used to evaluate them when they were solving or trying to solve challenging problems. I've also argued in Google's Hiring Committee whether a candidate performed well enough to get the job. I am familiar with the entire recruitment process,
+&nbsp;&nbsp;&nbsp;&nbsp;Besides, I also stood on the other side of the table and asked my candidates to do the same thing. I used to find engineers who I thought might pass the interview, and looked through piles of resumes. I used to evaluate them when they were solving or trying to solve challenging problems. I've also argued in Google's Hiring Committee whether a candidate performed well enough to get the job. I am familiar with the entire recruitment process because I went through every step of it, over and over again.
 
-因为我经历过其中的每一步，一遍又一遍。
+
+
 
 而你，读者，可能正在为明天、下周或明年的面试做准备。我在这是为了帮助你巩固对计算机科学基础的理解，然后学习如何应用这些基础知识来破解编码面试。
 
