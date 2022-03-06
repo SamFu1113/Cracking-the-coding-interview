@@ -1,6 +1,14 @@
 ## Preface
 
+<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;Dear Reader, let's start with an introduction. I am not a recruiter. I am a software engineer. Therefore, I know what it's like to be asked to come up with a brilliant algorithm on the spot and then write the perfect code on a whiteboard. The reason I know it's because I've been asked to do the same thing in interviews at Google, Microsoft, Apple and Amazon and others.
+=======
+Dear Reader,
+
+让我们先来介绍一下。
+
+我不是招聘人员。我是一名软件工程师。正因如此，我知道被要求当场拿出精彩的算法然后在白板上编写出完美的代码是什么感觉。我之所以知道，是因为我被要求做过同样的事情——在 Google、Microsoft、Apple 和 Amazon 以及其他公司的面试中。
+>>>>>>> parent of 6b7fa34 (Update Foreword.md)
 
 不仅如此，我也曾站在桌子的另一边，要求我的候选人们也这样做。我曾经为了找到那些我认为有可能通过面试的工程师，而翻看过成堆的简历。我曾经在他们解决或试图解决具有挑战性的问题时，对他们进行评估。我也曾经在 Google's Hiring Committee 中争论过，是否某个候选人的表现足以获得这份工作。我熟悉整个招聘流程，因为我经历过其中的每一步，一遍又一遍。
 
