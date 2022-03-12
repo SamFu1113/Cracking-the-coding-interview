@@ -8,7 +8,8 @@
 
 
 
-And you, the reader,可能正在为明天、下周或明年的面试做准备。我在这是为了帮助你巩固对计算机科学基础的理解，然后学习如何应用这些基础知识来破解编码面试。
+And you, the reader may be preparing for an interview tomorrow, next week or next year.
+我在这是为了帮助你巩固对计算机科学基础的理解，然后学习如何应用这些基础知识来破解编码面试。
 
 第 6 版 *Cracking the Coding Interview* 在第 5 版的基础上进行了更新，增加了 70% 的内容：附加问题、修订后的答案、新章节介绍、更多的算法策略、所有问题的提示以及其他内容。请务必访问我们的网站 *CrackingTheCodinglnterview.com*，与其他求职者联系并发现新资源。
 
