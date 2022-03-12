@@ -40,6 +40,6 @@ My first formal teaching experience was at the University of Pennsylvania, at th
 &nbsp;&nbsp;&nbsp;&nbsp;Many years later, I continue to teach computer science concepts, but this time the goal is to get the startup's engineers to prepare for their acquisition interview.  I have seen their mistakes and efforts and developed techniques and strategies to help them solve these problems.
 
 **Cracking the Coding Interview**, **Cracking the PM Interview**, **Cracking the Tech Career** and **CareerCup**,  they are reflect my love for teaching. You can also often see me "hanging out" on *CareerCup.com* even now to help those users looking for help.
-加入我们。
+Join us.
 
 Gayle L. McDowell
