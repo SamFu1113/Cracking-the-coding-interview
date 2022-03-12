@@ -10,7 +10,7 @@
 
 And you, the reader may be preparing for an interview tomorrow, next week or next year. I'm here to help you solidify your understanding of the fundamentals of computer science and then learn how to apply these basics to crack coding interviews. 
 
-The 6th edition *Cracking the Coding Interview* has been updated from the 5th edition, e.g. adding 70% content about dditional questions, revised answer, new chapter introduction更多的算法策略、所有问题的提示以及其他内容。请务必访问我们的网站 *CrackingTheCodinglnterview.com*，与其他求职者联系并发现新资源。
+The 6th edition *Cracking the Coding Interview* has been updated from the 5th edition, e.g. adding 70% content about dditional questions, revised answer, new chapter introductio, more algorithmic strategies,所有问题的提示以及其他内容。请务必访问我们的网站 *CrackingTheCodinglnterview.com*，与其他求职者联系并发现新资源。
 
 我为你和你将要发展的技能感到高兴。充分的准备将有助于你拓宽知识范围、提升沟通技巧。无论付出多大的努力，这都是值得的！建议你仔细阅读这些入门章节，在这些章节我记录下了一些重要的见解，或许最终能影响你的结果是 "hire"，还是 "no hire"。
 
