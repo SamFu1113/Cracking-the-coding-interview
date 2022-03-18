@@ -12,7 +12,7 @@
 
 The 6th edition *Cracking the Coding Interview* has been updated from the 5th edition, e.g. adding 70% content about dditional questions, revised answer, new chapter introductio, more algorithmic strategies, and tips for all questions and more. Please visit our website: *CrackingTheCodinglnterview.com* and connect with other job seekers and discover new resources.
 
-I am so happy for you and the skills you will develop. Adequate preparation will help you broaden your knowledge、提升沟通技巧。无论付出多大的努力，这都是值得的！建议你仔细阅读这些入门章节，在这些章节我记录下了一些重要的见解，或许最终能影响你的结果是 "hire"，还是 "no hire"。
+I am so happy for you and the skills you will develop. Adequate preparation will help you broaden your knowledge and improve communication skills.无论付出多大的努力，这都是值得的！建议你仔细阅读这些入门章节，在这些章节我记录下了一些重要的见解，或许最终能影响你的结果是 "hire"，还是 "no hire"。
 
 同时要牢记，面试是很难的！在 Google 搞面试的这几年里，我注意到有一些面试官会问“简单”的问题，而另外一些面试官会问稍难的问题。但是你猜怎么着？简单的问题并不会让你更容易获得 offer。获得 offer 并不是要求你能完美地解决问题（很少有求职者能够做到！），而是要求你能给出比其他的求职者更好的回答。所以，当你遇到棘手的问题时，不要紧张——其他人可能都认为它很难。做不到完美也没有关系。
 
