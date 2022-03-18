@@ -8,7 +8,7 @@
 
 
 
-And you, the reader may be preparing for an interview tomorrow, next week or next year. I'm here to help you solidify your understanding of the fundamentals of computer science and then learn how to apply these basics to crack coding interviews. 
+&nbsp;&nbsp;&nbsp;&nbsp;And you, the reader may be preparing for an interview tomorrow, next week or next year. I'm here to help you solidify your understanding of the fundamentals of computer science and then learn how to apply these basics to crack coding interviews. 
 
 The 6th edition *Cracking the Coding Interview* has been updated from the 5th edition, e.g. adding 70% content about dditional questions, revised answer, new chapter introductio, more algorithmic strategies, and tips for all questions and more. Please visit our website: *CrackingTheCodinglnterview.com* and connect with other job seekers and discover new resources.
 
