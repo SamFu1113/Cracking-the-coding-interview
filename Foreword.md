@@ -14,7 +14,7 @@ The 6th edition *Cracking the Coding Interview* has been updated from the 5th ed
 
 &nbsp;&nbsp;&nbsp;&nbsp;I am so happy for you and the skills you will develop. Adequate preparation will help you broaden your knowledge and improve communication skills. No matter how hard you try, it's all worth it! It is recommended that you read these introductory chapters carefully. In these chapters I have recorded some important insights. Maybe the final result that affects you is "hire", or "no hire".
 
-&nbsp;&nbsp;&nbsp;&nbsp;Also keep in mind that interviews are hard! I've had some interviewers ask "noticeable" questions in the past few years of interviewing at Google. On the other hand, other interviewers will ask slightly more difficult questions. But guess what?简单的问题并不会让你更容易获得 offer。获得 offer 并不是要求你能完美地解决问题（很少有求职者能够做到！），而是要求你能给出比其他的求职者更好的回答。所以，当你遇到棘手的问题时，不要紧张——其他人可能都认为它很难。做不到完美也没有关系。
+&nbsp;&nbsp;&nbsp;&nbsp;Also keep in mind that interviews are hard! I've had some interviewers ask "noticeable" questions in the past few years of interviewing at Google. On the other hand, other interviewers will ask slightly more difficult questions. But guess what? Simple questions don't make it easier for you to get an offer.获得 offer 并不是要求你能完美地解决问题（很少有求职者能够做到！），而是要求你能给出比其他的求职者更好的回答。所以，当你遇到棘手的问题时，不要紧张——其他人可能都认为它很难。做不到完美也没有关系。
 
 Study hard, practice-and good luck!
 
