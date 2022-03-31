@@ -21,4 +21,4 @@ Study hard, practice-and good luck!
 
 Gayle L. McDowell
 Founder/CEO, CareerCup.com
-*Cracking the PM Interview* 和 *Cracking the Tech Career* 作者
+*Cracking the PM Interview* & *Cracking the Tech Career* 作者
