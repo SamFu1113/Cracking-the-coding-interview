@@ -20,5 +20,5 @@ So when you encounter tough problems, do not worry. Everyone else might think it
 Study hard, practice-and good luck!
 
 Gayle L. McDowell
-创始人/CEO, CareerCup.com
+Founder/CEO, CareerCup.com
 *Cracking the PM Interview* 和 *Cracking the Tech Career* 作者
