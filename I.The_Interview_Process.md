@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;At most top tech companies (and many others), algorithms and coding questions are the biggest components of the interview process. These types of problems can be thought of as problem-solving problems. The interviewer wants to be able to observe your process of solving algorithmic problems that you have not encountered before to assess your abilities.
 
-Most of the time, you may only have one question in an interview.因为 45 分钟并不长，在这段时间内你很难全部回答完几个不同的问题。
+Most of the time, you may only have one question in an interview. Because 45 minutes is not long,在这段时间内你很难全部回答完几个不同的问题。
 
 在整个解决问题的过程中，你应该大声地说出你的方案，并解释你的思考过程。你的面试官有时会跳出来引导你，让他们这样做。这是正常的，并不意味着你做得很差。(当然，不需要提示就更好了。)
 
