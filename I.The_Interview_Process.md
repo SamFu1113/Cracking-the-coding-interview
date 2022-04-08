@@ -1,6 +1,6 @@
 # I. The interview process
 
-&nbsp;&nbsp;&nbsp;&nbsp;At most top tech companies (and many others), algorithms and coding questions are the biggest components of the interview process. These types of problems can be thought of as problem-solving problems.面试官希望能通过观察你解决以前没有遇到过的算法问题的过程，来评估你的能力。
+&nbsp;&nbsp;&nbsp;&nbsp;At most top tech companies (and many others), algorithms and coding questions are the biggest components of the interview process. These types of problems can be thought of as problem-solving problems. The interviewer wants to be able to observe your process of solving algorithmic problems that you have not encountered before,来评估你的能力。
 
 很多时候，在面试中你可能只会遇到一个问题。因为 45 分钟并不长，在这段时间内你很难全部回答完几个不同的问题。
 
