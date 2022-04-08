@@ -1,6 +1,6 @@
 # I. The interview process
 
-At most top tech companies (and many others),算法和编码问题是面试过程中最大的组成部分。这类问题都可以被视为问题解决型（problem-solving）的问题。面试官希望能通过观察你解决以前没有遇到过的算法问题的过程，来评估你的能力。
+&nbsp;&nbsp;&nbsp;&nbsp;At most top tech companies (and many others),算法和编码问题是面试过程中最大的组成部分。这类问题都可以被视为问题解决型（problem-solving）的问题。面试官希望能通过观察你解决以前没有遇到过的算法问题的过程，来评估你的能力。
 
 很多时候，在面试中你可能只会遇到一个问题。因为 45 分钟并不长，在这段时间内你很难全部回答完几个不同的问题。
 
