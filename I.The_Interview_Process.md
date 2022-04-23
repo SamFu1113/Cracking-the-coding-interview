@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Most of the time, you may only have one question in an interview. Because 45 minutes is not long, it is difficult for you to answer several different questions all within this time.
 
-Throughout the problem-solving process, you should speak your plan out loud and explain your thought process. Your interviewer sometimes jumps out to guide you. Let them do it. This is normal and it doesn't mean you're doing badly.(Of course, it would be better without a hint.)
+Throughout the problem-solving process, you should speak your plan out loud and explain your thought process. Your interviewer sometimes jumps out to guide you. Let them do it. This is normal and it doesn't mean you're doing badly.(Of course, it would be better without a hint.)  
 
 在面试结束后，面试官一般会对你的表现就已经有了直观的感觉。他们可能会给你的表现打分，但这并不是一个定量的评价。没有图表显示你在不同的事情上得到了多少分。面试本身就不像是那样工作。
 
