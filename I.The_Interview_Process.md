@@ -6,7 +6,7 @@
 
 Throughout the problem-solving process, you should speak your plan out loud and explain your thought process. Your interviewer sometimes jumps out to guide you. Let them do it. This is normal and it doesn't mean you're doing badly.(Of course, it would be better without a hint.)  
 
-Interviewers generally have an intuitive feel for your performance after the interview. They might rate your performance, but this is not a quantitative evaluation.没有图表显示你在不同的事情上得到了多少分。面试本身就不像是那样工作。
+Interviewers generally have an intuitive feel for your performance after the interview. They might rate your performance, but this is not a quantitative evaluation. There are no graphs showing how many points you get on different things.面试本身就不像是那样工作。
 
 相反，你的面试官对你的表现进行评估，通常是基于以下几点：
 
