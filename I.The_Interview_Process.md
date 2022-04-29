@@ -9,7 +9,7 @@ Throughout the problem-solving process, you should speak your plan out loud and 
 Interviewers generally have an intuitive feel for your performance after the interview. They might rate your performance, but this is not a quantitative evaluation. There are no graphs showing how many points you get on different things. The interview itself doesn't like work like that.
 
 
-On the contrary, your interviewer evaluates your performance,通常是基于以下几点：
+On the contrary, your interviewer evaluates your performance usually based on the following points:
 
 - **分析能力**：你需要很多帮助来解决问题吗？你的解决方案有多优？你花了多长时间才找到解决办法？如果你必须设计/架构一个新的解决方案，你是否很好地组织了问题并考虑了不同决策的权衡？
 
