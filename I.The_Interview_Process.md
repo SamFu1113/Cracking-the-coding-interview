@@ -11,7 +11,7 @@ Interviewers generally have an intuitive feel for your performance after the int
 
 On the contrary, your interviewer evaluates your performance usually based on the following points:
 
-- **Skills of analyze**：Do you need a lot of help to solve a problem? How good is your solution? How long did it take you to find a solution? If you have to design/architecture a new solution, 你是否很好地组织了问题并考虑了不同决策的权衡？
+- **Skills of analyze**：Do you need a lot of help to solve a problem? How good is your solution? How long did it take you to find a solution? If you have to design/architecture a new solution, Did you organize the questions well并考虑了不同决策的权衡？
 
 - **编码水平**：你是否能够将算法成功转换为合理的代码？它干净有序吗？你是否考虑过潜在的错误？ 你的代码风格好吗？
 
