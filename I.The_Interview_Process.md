@@ -13,7 +13,7 @@ On the contrary, your interviewer evaluates your performance usually based on th
 
 - **Skills of Analyze**：Do you need a lot of help to solve a problem? How good is your solution? How long did it take you to find a solution? If you have to design/architecture a new solution. Did you organize the questions well and consider the trade-offs of different decisions?
 
-- **Coding Level**：Are you able to successfully convert the algorithm into reasonable code? Is it clean and orderly?你是否考虑过潜在的错误？ 你的代码风格好吗？
+- **Coding Level**：Are you able to successfully convert the algorithm into reasonable code? Is it clean and orderly? Have you considered potential mistakes? 你的代码风格好吗？
 
 - **技术知识/计算机科学基础知识**：你是否拥有计算机科学和相关技术的坚实基础？
 
