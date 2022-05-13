@@ -15,7 +15,7 @@ On the contrary, your interviewer evaluates your performance usually based on th
 
 - **Coding Level**：Are you able to successfully convert the algorithm into reasonable code? Is it clean and orderly? Have you considered potential mistakes? Is your code style good?
 
-- **Technical Knowledge/计算机科学基础知识**：你是否拥有计算机科学和相关技术的坚实基础？
+- **Technical Knowledge/Computer Science Fundamentals**：你是否拥有计算机科学和相关技术的坚实基础？
 
 - **经验**：你过去做过很好的技术决策吗？你做过有趣、有挑战性的项目吗？你是否表现出动力、主动性和其他重要因素？
 
