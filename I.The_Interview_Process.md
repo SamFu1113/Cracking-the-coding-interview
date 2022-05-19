@@ -19,7 +19,7 @@ On the contrary, your interviewer evaluates your performance usually based on th
 
 - **Experience**：Have you made technical decisions well in the past? Have you done interesting, challenging projects? Do you show motivation, initiative, and other important factors?
 
-- **Culture Fitting/沟通技巧**：你的个性和价值观是否与公司和团队契合？你和面试官是否能够良好沟通？
+- **Culture Fitting/Communication Skills**：你的个性和价值观是否与公司和团队契合？你和面试官是否能够良好沟通？
 
 这些领域的权重将根据问题、面试官、角色、团队和公司的不同而有所不同。在一个标准算法问题中，它主要考察的几乎完全是前三个方面。
 
