@@ -17,7 +17,7 @@ On the contrary, your interviewer evaluates your performance usually based on th
 
 - **Technical Knowledge/Computer Science Fundamentals**：Do you have a solid foundation in computer science and related technologies?
 
-- **Experience**：Have you made technical decisions well in the past? Have you done interesting, challenging projects?你是否表现出动力、主动性和其他重要因素？
+- **Experience**：Have you made technical decisions well in the past? Have you done interesting, challenging projects? Do you show motivation, initiative, and other important factors?
 
 - **文化契合/沟通技巧**：你的个性和价值观是否与公司和团队契合？你和面试官是否能够良好沟通？
 
