@@ -24,7 +24,7 @@ On the contrary, your interviewer evaluates your performance usually based on th
 The weighting of these areas will vary depending on the question, interviewer, role, team, and company. In a standard algorithmic problem, it mainly examines almost exactly the first three aspects.
 
 ### Why?
-这是求职者在开始面试时最常问的问题之一。为什么面试要设计成这样？毕竟：
+This is one of the most frequently asked questions by job seekers at the start of an interview.为什么面试要设计成这样？毕竟：
 
 1. 很多优秀的求职者在这类面试中都表现不佳。
 
