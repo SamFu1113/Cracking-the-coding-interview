@@ -30,7 +30,7 @@ This is one of the most frequently asked questions by job seekers at the start o
 
 2. If it does, you can find the answer directly.
 
-3. In practical work, it is rarely necessary to use data structures such as binary search trees.如果你确实需要，你肯定可以学习它。
+3. In practical work, it is rarely necessary to use data structures such as binary search trees. If you really need,你肯定可以学习它。
 
 4. 白板编码是一种人为的环境。显然，在实际工作中你永远不会在白板上编写代码。
 
