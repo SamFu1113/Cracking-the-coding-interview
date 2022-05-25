@@ -32,7 +32,7 @@ This is one of the most frequently asked questions by job seekers at the start o
 
 3. In practical work, it is rarely necessary to use data structures such as binary search trees. If you really need, uou can definitely learn it.
 
-4. Whiteboard coding is an artificial environment.显然，在实际工作中你永远不会在白板上编写代码。
+4. Whiteboard coding is an artificial environment. Obviously, In real work you would never write code on a whiteboard.
 
 这些抱怨不无道理。事实上，我同意他们所有人的观点，至少部分是这样。
 
