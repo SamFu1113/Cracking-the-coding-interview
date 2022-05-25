@@ -26,7 +26,7 @@ The weighting of these areas will vary depending on the question, interviewer, r
 ### Why?
 This is one of the most frequently asked questions by job seekers at the start of an interview. Why are interviews designed this way? After all:
 
-1. 很多优秀的求职者在这类面试中都表现不佳。
+1. Many good job candidates don't do well in these types of interviews.
 
 2. 如果确实出现过，你可以直接查找到答案。
 
