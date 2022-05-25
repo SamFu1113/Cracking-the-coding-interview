@@ -28,7 +28,7 @@ This is one of the most frequently asked questions by job seekers at the start o
 
 1. Many good job candidates don't do well in these types of interviews.
 
-2. 如果确实出现过，你可以直接查找到答案。
+2. If it does, you can find the answer directly.
 
 3. 在实际工作中，很少需要使用诸如二叉搜索树之类的数据结构。如果你确实需要，你肯定可以学习它。
 
