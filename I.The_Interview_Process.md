@@ -34,7 +34,7 @@ This is one of the most frequently asked questions by job seekers at the start o
 
 4. Whiteboard coding is an artificial environment. Obviously, In real work you would never write code on a whiteboard.
 
-&nbsp;&nbsp;&nbsp;&nbsp;These complaints are not without reason. In fact, 我同意他们所有人的观点，至少部分是这样。
+&nbsp;&nbsp;&nbsp;&nbsp;These complaints are not without reason. In fact, I agree with all of them, At least in part.
 
 与此同时，我们有理由对某些职位（而不是所有职位）采取这种做法。同意这个逻辑并不重要，但是理解为什么要问这些问题是一个好主意。它能帮助你深入了解面试官的心态。
 
