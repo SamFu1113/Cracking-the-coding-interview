@@ -36,7 +36,7 @@ This is one of the most frequently asked questions by job seekers at the start o
 
 &nbsp;&nbsp;&nbsp;&nbsp;These complaints are not without reason. In fact, I agree with all of them at least in part.
 
-In the meanwhile, we have reasons for certain positions(not all positions)采取这种做法。同意这个逻辑并不重要，但是理解为什么要问这些问题是一个好主意。它能帮助你深入了解面试官的心态。
+In the meanwhile, we have reasons for certain positions(not all positions) to take this approach.同意这个逻辑并不重要，但是理解为什么要问这些问题是一个好主意。它能帮助你深入了解面试官的心态。
 
 #### 漏报（False negatives）是可以接收的。
 
