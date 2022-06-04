@@ -38,7 +38,7 @@ This is one of the most frequently asked questions by job seekers at the start o
 
 In the meanwhile, we have reasons for certain positions(not all positions) to take this approach. Agreeing with this logic doesn't matter, but it's a good idea to understand why you're asking these questions. It can help you gain insight into the mindset of the interviewer.
 
-#### 漏报（False negatives）是可以接收的。
+#### False negatives are acceptable.
 
 这让人难过（也让候选人感到沮丧），但这却是事实。
 
