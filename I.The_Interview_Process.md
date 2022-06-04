@@ -42,8 +42,8 @@ In the meanwhile, we have reasons for certain positions(not all positions) to ta
 
 &nbsp;&nbsp;&nbsp;&nbsp;It's sad (and frustrating for candidates), but this is the truth.
 
-&nbsp;&nbsp;&nbsp;&nbsp;From the company's point of view, it is actually acceptable for some good candidates to be rejected.
-如果这家公司打算自己培养一批优秀的员工，他们可以接受错过一些优秀的人。当然，他们也不想这么做，因为这会增加他们的招聘成本。不过，这是一个可以接受的折衷方案，只要他们仍然能够聘用到足够多的优秀人才。
+&nbsp;&nbsp;&nbsp;&nbsp;From the company's point of view, it is actually acceptable for some good candidates to be rejected. If the company intends to cultivate a group of outstanding employees,
+他们可以接受错过一些优秀的人。当然，他们也不想这么做，因为这会增加他们的招聘成本。不过，这是一个可以接受的折衷方案，只要他们仍然能够聘用到足够多的优秀人才。
 
 他们更关心的是误报（false positives）：那些在面试中表现很优秀的人，但实际上并不是很优秀。
 
