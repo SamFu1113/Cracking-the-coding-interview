@@ -40,7 +40,7 @@ In the meanwhile, we have reasons for certain positions(not all positions) to ta
 
 #### False negatives are acceptable.
 
-这让人难过（也让候选人感到沮丧），但这却是事实。
+&nbsp;&nbsp;&nbsp;&nbsp;这让人难过（也让候选人感到沮丧），但这却是事实。
 
 从公司的角度来看，一些优秀的候选人被拒其实是可以接受的。如果这家公司打算自己培养一批优秀的员工，他们可以接受错过一些优秀的人。当然，他们也不想这么做，因为这会增加他们的招聘成本。不过，这是一个可以接受的折衷方案，只要他们仍然能够聘用到足够多的优秀人才。
 
