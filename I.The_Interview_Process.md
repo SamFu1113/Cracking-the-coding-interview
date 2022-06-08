@@ -45,7 +45,7 @@ In the meanwhile, we have reasons for certain positions(not all positions) to ta
 &nbsp;&nbsp;&nbsp;&nbsp;From the company's point of view, it is actually acceptable for some good candidates to be rejected. If the company intends to cultivate a group of outstanding employees, they can accept missing out on some good people.
 Of course, they don't want to do it either because it will increase their recruitment costs. However, this is an acceptable compromise as long as they can still hire enough good people.
 
-They are more concerned about false positives:那些在面试中表现很优秀的人，但实际上并不是很优秀。
+They are more concerned about false positives:Those who do well in interviews,但实际上并不是很优秀。
 
 #### 解决问题的能力（Problem-solving skills）很有价值。
 
