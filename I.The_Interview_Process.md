@@ -49,7 +49,7 @@ Of course, they don't want to do it either because it will increase their recrui
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you can solve a few puzzles (perhaps with some help), you are probably very good at developing optimal algorithms. In other words, you are smart.
 
-聪明的人倾向于将事情做好，这对公司来说很有价值。当然，这不是唯一重要的，但这是一件非常好的事情。
+Smart people tend to do things well,这对公司来说很有价值。当然，这不是唯一重要的，但这是一件非常好的事情。
 
 #### 基本数据结构和算法知识很有用。
 
