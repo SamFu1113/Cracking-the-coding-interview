@@ -47,7 +47,7 @@ Of course, they don't want to do it either because it will increase their recrui
 
 #### Problem-solving skills are valuable.
 
-如果你能够解决几个难题（或许是在一定的帮助下），那么你可能非常擅长开发最优算法。换句话说，你很聪明。
+If you can solve a few puzzles (perhaps with some help)，那么你可能非常擅长开发最优算法。换句话说，你很聪明。
 
 聪明的人倾向于将事情做好，这对公司来说很有价值。当然，这不是唯一重要的，但这是一件非常好的事情。
 
