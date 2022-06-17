@@ -51,7 +51,7 @@ Of course, they don't want to do it either because it will increase their recrui
 
 #### 基本数据结构和算法知识很有用。
 
-The interviewer will think that basic computer science knowledge is actually useful. You keep in mid that, Situations that require knowledge of trees, graphs, lists, sorting, and other things will certainly arise from time to time.如果真是这样的话，掌握书本的知识真的很有必要。
+The interviewer will think that basic computer science knowledge is actually useful. You hae to keep in mid that, Situations that require knowledge of trees, graphs, lists, sorting, and other things will certainly arise from time to time.如果真是这样的话，掌握书本的知识真的很有必要。
 
 难道不可以遇到问题的时候根据需要有选择地学习吗？当然可以。但是如果你不知道二叉搜索树的存在，你就很难在需要的时候知道应该去使用它。如果你知道它的存在，那么你具有了基本的概念。
 
