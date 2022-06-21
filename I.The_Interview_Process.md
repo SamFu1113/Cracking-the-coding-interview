@@ -54,7 +54,7 @@ Of course, they don't want to do it either because it will increase their recrui
 The interviewer will think that basic computer science knowledge is actually useful. You hae to keep in mid that situations that require knowledge of trees, graphs, lists, sorting, and other things will certainly arise from time to time. 
 If so, it is really necessary to have knowledge of books.
 
-Wouldn't it be possible to selectively learn as needed when faced with a problem? Of, course. but if you don't know the existence of binary search trees, it's hard to know when to use it when you need it.如果你知道它的存在，那么你具有了基本的概念。
+Wouldn't it be possible to selectively learn as needed when faced with a problem? Of, course. But if you don't know the existence of binary search trees, it's hard to know when to use it when you need it.如果你知道它的存在，那么你具有了基本的概念。
 
 其他面试官依靠数据结构和算法相关的问题来考察求职者，是因为他们认为这是一个很好的“代理”。即使这些技能本身并不难学，但他们表示，这与成为一名优秀的开发人员是有相当大的关联的。这意味着你要么通过了计算机科学课程（在这种情况下，你已经学习并保留了相当广泛的技术知识），要么自学了这些东西。无论哪种方式，这都是一个好迹象。
 
