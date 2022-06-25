@@ -56,7 +56,7 @@ If so, it is really necessary to have knowledge of books.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Wouldn't it be possible to selectively learn as needed when faced with a problem? Of, course. But if you don't know the existence of binary search trees, it's hard to know when to use it when you need it. If you know it exists, then you have the basic concept.
 
-Other interviewers based on data structure and algorithm related questions to exhibitors, It's because they think it's a good "proxy".即使这些技能本身并不难学，但他们表示，这与成为一名优秀的开发人员是有相当大的关联的。这意味着你要么通过了计算机科学课程（在这种情况下，你已经学习并保留了相当广泛的技术知识），要么自学了这些东西。无论哪种方式，这都是一个好迹象。
+Other interviewers based on data structure and algorithm related questions to exhibitors, becauseIt's  they think it's a good "proxy".即使这些技能本身并不难学，但他们表示，这与成为一名优秀的开发人员是有相当大的关联的。这意味着你要么通过了计算机科学课程（在这种情况下，你已经学习并保留了相当广泛的技术知识），要么自学了这些东西。无论哪种方式，这都是一个好迹象。
 
 数据结构和算法知识出现的另一个原因是：很难提出不涉及它们的问题解决型（problem-solving ）的问题。事实证明，绝大多数解决问题的问题涉及其中一些基础知识。当足够多的应聘者了解这些基本知识时，很容易进入一种向他们提问的模式。
 
