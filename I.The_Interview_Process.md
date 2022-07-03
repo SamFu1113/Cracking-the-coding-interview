@@ -59,7 +59,7 @@ If so, it is really necessary to have knowledge of books.
 Other interviewers based on data structure and algorithm related questions to exhibitors because it's  they think it's a good "proxy". Even though the skills themselves are not difficult to learn, they said it has a lot to do with being a good developer. 
 This means you have passed a computer science course(in this case, you have acquired and retained fairly extensive technical knowledge), or you are self-taught these things. This is all a good sign anyway.
 
-Another reason for the emergence of knowledge of data structures and algorithms is it's hard to ask problem-solving problems that don't involve them.事实证明，绝大多数解决问题的问题涉及其中一些基础知识。当足够多的应聘者了解这些基本知识时，很容易进入一种向他们提问的模式。
+&nbsp;&nbsp;&nbsp;&nbsp;Another reason for the emergence of knowledge of data structures and algorithms is it's hard to ask problem-solving problems that don't involve them.事实证明，绝大多数解决问题的问题涉及其中一些基础知识。当足够多的应聘者了解这些基本知识时，很容易进入一种向他们提问的模式。
 
 #### 白板能让你专注于重要的事情。
 
