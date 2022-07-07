@@ -49,7 +49,7 @@ Of course, they don't want to do it either because it will increase their recrui
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you can solve a few puzzles (perhaps with some help), you are probably very good at developing optimal algorithms. In other words, you are smart. Smart people tend to do things well, and this is valuable to the company. Of course, it's not the only thing that matters, but it's a very good thing.
 
-#### 基本数据结构和算法知识很有用。
+#### Knowledge of basic data structures and algorithms is useful.
 
 The interviewer will think that basic computer science knowledge is actually useful. You hae to keep in mid that situations that require knowledge of trees, graphs, lists, sorting, and other things will certainly arise from time to time. 
 If so, it is really necessary to have knowledge of books.
