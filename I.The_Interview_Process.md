@@ -62,7 +62,7 @@ This means you have passed a computer science course(in this case, you have acqu
 &nbsp;&nbsp;&nbsp;&nbsp;Another reason for the emergence of knowledge of data structures and algorithms is it's hard to ask problem-solving problems that don't involve them. It turns out that the vast majority of problem-solving problems involve some of these basics. When enough candidates understand these basics, 
 it's easy to get into a mode of asking them questions.
 
-#### 白板能让你专注于重要的事情。
+#### Whiteboards allow you to focus on what's important.
 
 在白板上编写完美的代码是非常困难的，这是绝对肯定的。幸运的是，你的面试官对此并没有苛求。实际上，每个人都有一些 bug 或轻微的语法错误。
 
