@@ -66,7 +66,7 @@ it's easy to get into a mode of asking them questions.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Writing perfect code on a whiteboard is very difficult and this is absolutely certain. Fortunately, your interviewer is not demanding about it. In fact, everyone has some bug or slight syntax error.
 
-The advantage of a whiteboard is that you can focus on the big picture In a way, .你没有编译器。所以你不需要编译代码。你不需要编写整个类定义和样板代码。你可以关注代码中有趣的、“充实的”部分：该问题真正关注的功能。
+The advantage of a whiteboard is that you can focus on the big picture In a way,.你没有编译器。所以你不需要编译代码。你不需要编写整个类定义和样板代码。你可以关注代码中有趣的、“充实的”部分：该问题真正关注的功能。
 
 这并不是说你应该只写伪代码或者正确性无关紧要。大多数面试官不接受伪代码，并且希望错误越少越好。
 
