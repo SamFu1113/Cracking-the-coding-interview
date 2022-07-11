@@ -64,7 +64,7 @@ it's easy to get into a mode of asking them questions.
 
 #### Whiteboards allow you to focus on what's important.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Writing perfect code on a whiteboard is very difficult and this is absolutely certain. Fortunately, your interviewer is not demanding about it. In fact, Everyone has some bug or slight syntax error.
+&nbsp;&nbsp;&nbsp;&nbsp;Writing perfect code on a whiteboard is very difficult and this is absolutely certain. Fortunately, your interviewer is not demanding about it. In fact, everyone has some bug or slight syntax error.
 
 白板的好处在于，在某种程度上，你可以专注于大局。你没有编译器。所以你不需要编译代码。你不需要编写整个类定义和样板代码。你可以关注代码中有趣的、“充实的”部分：该问题真正关注的功能。
 
