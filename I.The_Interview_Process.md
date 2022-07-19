@@ -70,7 +70,7 @@ The advantage of a whiteboard is that you can focus on the big picture in a way.
 
 That's not to say you should just write pseudocode or that correctness doesn't matter. Most interviewers don't accept pseudocode and hopefully the fewer errors the better.
 
-Whiteboards also tend to encourage candidates to speak more and explain their thought process. When giving candidates a computer,Their ability to communicate will be drastically reduced.
+Whiteboards also tend to encourage candidates to speak more and explain their thought process. When giving candidates a computer, Their ability to communicate will be drastically reduced.
 
 #### 但这并不适用于每个人、每个公司或每种情况。
 
