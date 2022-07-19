@@ -68,7 +68,7 @@ it's easy to get into a mode of asking them questions.
 
 The advantage of a whiteboard is that you can focus on the big picture in a way. You don't have a compiler so you don't need to compile the code. You don't need to write the whole class definition and boilerplate code. You can focus on the interesting and "flesh" parts of the code that is the functionality that the question really focuses on.
 
-That's not to say you should just write pseudocode or that correctness doesn't matter. Most interviewers don't accept pseudocode And hopefully the fewer errors the better.
+That's not to say you should just write pseudocode or that correctness doesn't matter. Most interviewers don't accept pseudocode and hopefully the fewer errors the better.
 
 白板也倾向于鼓励候选人多发言，并解释他们的思维过程。当给应聘者一台电脑时，他们的沟通能力会大幅下降。
 
