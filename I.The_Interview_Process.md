@@ -70,7 +70,7 @@ The advantage of a whiteboard is that you can focus on the big picture in a way.
 
 That's not to say you should just write pseudocode or that correctness doesn't matter. Most interviewers don't accept pseudocode and hopefully the fewer errors the better.
 
-白板也倾向于鼓励候选人多发言，并解释他们的思维过程。当给应聘者一台电脑时，他们的沟通能力会大幅下降。
+Whiteboards also tend to encourage candidates to speak more,并解释他们的思维过程。当给应聘者一台电脑时，他们的沟通能力会大幅下降。
 
 #### 但这并不适用于每个人、每个公司或每种情况。
 
