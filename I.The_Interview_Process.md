@@ -74,7 +74,7 @@ Whiteboards also tend to encourage candidates to speak more and explain their th
 
 #### But that doesn't apply to every person, company, or situation.
 
-The above sections are designed to help you understand the company's thought process. My personal opinion?
+The above sections are designed to help you understand the company's thought process. my personal opinion?
 
  对于正确的情况，如果面试过程处理得当，是能够帮助对一个人解决问题能力做出的合理判断的，因为表现优秀的人往往相当聪明。
 
