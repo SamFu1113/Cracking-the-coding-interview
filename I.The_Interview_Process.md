@@ -72,7 +72,7 @@ That's not to say you should just write pseudocode or that correctness doesn't m
 
 Whiteboards also tend to encourage candidates to speak more and explain their thought process. When giving candidates a computer, their ability to communicate will be drastically reduced.
 
-#### 但这并不适用于每个人、每个公司或每种情况。
+#### But that doesn't apply to every person, company, or situation.
 
 以上部分旨在帮助你了解公司的思维过程。
 
