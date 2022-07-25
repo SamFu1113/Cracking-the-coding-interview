@@ -78,7 +78,7 @@ The above sections are designed to help you understand the company's thought pro
 
 However, many interview process experiences are not very good. You may encounter your interviewer who is bad or they ask bad questions.
 
-It is not suitable for all companies. Some companies should pay more attention to the previous experience of employees, Or skills that require mastery of a specific technology.那么这类问题并没有太大分量。
+It is not suitable for all companies. Some companies should pay more attention to the previous experience of employees, or skills that require mastery of a specific technology.那么这类问题并没有太大分量。
 
 它也不能衡量一个人的职业道德或专注力。再说一次，几乎没有面试过程能真正评估这一点。
 
