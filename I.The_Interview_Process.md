@@ -76,7 +76,7 @@ Whiteboards also tend to encourage candidates to speak more and explain their th
 
 The above sections are designed to help you understand the company's thought process. What about my personal opinion? If the interview process is handled properly, he(she)is capable of assisting in making reasonable judgments about a person's problem-solving abilities for the correct case. Because high performers are often pretty smart.
 
-However, 许多面试过程体验的并不好。你可能会遇到你的面试官很差劲，或者他们问的问题也很差劲。
+However, Many interview process experiences are not very good.你可能会遇到你的面试官很差劲，或者他们问的问题也很差劲。
 
 它也不适合所有的公司。有些公司应该更重视员工以前的经验，或者需要掌握特定技术的技能。那么这类问题并没有太大分量。
 
