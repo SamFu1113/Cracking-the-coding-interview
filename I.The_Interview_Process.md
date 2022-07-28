@@ -80,7 +80,7 @@ However, many interview process experiences are not very good. You may encounter
 
 It is not suitable for all companies. Some companies should pay more attention to the previous experience of employees or skills that require mastery of a specific technology. Well, such questions don't have much weight.
 
-Nor does it measure a person's work ethic or focus.Again, Few interview processes really assess this.
+Nor does it measure a person's work ethic or focus.Again, few interview processes really assess this.
 
 无论如何，这都不是一个完美的过程，但什么是完美的过程呢？事实上所有的面试过程都有其缺点。
 
