@@ -82,7 +82,7 @@ It is not suitable for all companies. Some companies should pay more attention t
 
 Nor does it measure a person's work ethic or focus.Again, few interview processes really assess this.
 
-Anyway, it's not a perfect process,但什么是完美的过程呢？事实上所有的面试过程都有其缺点。
+Anyway, it's not a perfect process.但什么是完美的过程呢？事实上所有的面试过程都有其缺点。
 
 我只能说：事情就是这样，所以我们只能尽自己所能。
 
