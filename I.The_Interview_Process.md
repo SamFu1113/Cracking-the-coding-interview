@@ -80,7 +80,7 @@ However, many interview process experiences are not very good. You may encounter
 
 It is not suitable for all companies. Some companies should pay more attention to the previous experience of employees or skills that require mastery of a specific technology. Well, such questions don't have much weight.
 
-它也不能衡量一个人的职业道德或专注力。再说一次，几乎没有面试过程能真正评估这一点。
+Nor does it measure a person's work ethic or focus.再说一次，几乎没有面试过程能真正评估这一点。
 
 无论如何，这都不是一个完美的过程，但什么是完美的过程呢？事实上所有的面试过程都有其缺点。
 
