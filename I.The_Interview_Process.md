@@ -84,7 +84,7 @@ Nor does it measure a person's work ethic or focus.Again, few interview processe
 
 Anyway, it's not a perfect process. However, what is the perfect process? Virtually all interview processes have their downsides.
 
-我只能说：事情就是这样，所以我们只能尽自己所能。
+I can only say:事情就是这样，所以我们只能尽自己所能。
 
 ### 面试题是如何被选择的
 应聘者经常会问在某家公司“最近”的面试问题是什么。仅仅问这个问题就揭示了他对问题来源的根本性误解。
