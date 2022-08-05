@@ -90,7 +90,7 @@ I can only say that's the way it is, so we can only do our best.
 
 Candidates were often asked what was the "most recent" interview question at a company. Just asking the question revealed a fundamental misunderstanding of the source of the problem.
 
-In most companiesThere is no list of questions an interviewer should ask.相反，每个面试官都会选择他们自己的问题。
+In most There is no list of questions an interviewer should ask.相反，每个面试官都会选择他们自己的问题。
 
 因为就问题而言，它是“对任何人都开放的（free for all）”，所以没有什么能让一个问题成为“最近 Google 面试的问题”，除了一个碰巧在 Google 工作的面试官最近碰巧问了这个问题。
 
