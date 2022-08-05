@@ -88,7 +88,7 @@ I can only say that's the way it is, so we can only do our best.
 
 ### How the interview questions were chosen
 
-Candidates were often asked what was the "most recent" interview question at a company.仅仅问这个问题就揭示了他对问题来源的根本性误解。
+Candidates were often asked what was the "most recent" interview question at a company. Just asking the question revealed a fundamental misunderstanding of the source of the problem.
 
 在绝大多数公司，面试官该问的问题并没有一个清单。相反，每个面试官都会选择他们自己的问题。
 
