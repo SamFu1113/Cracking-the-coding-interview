@@ -96,7 +96,7 @@ Because as far as the problem is concerned, it is "free for all". Therefore, not
 
 The questions asked in this year's Google interviews aren't too different from the ones asked three years ago. In fact, the questions asked by Google are usually no different from those asked at similar companies (Amazon, Facebook, etc.).
 
-There are some broad differences between companies. Some companies specialize in algorithms (often used in some system design), Others are very fond of knowledge-based questions.但在一个给定的问题类别中，几乎没有什么能让它“属于”一家公司，而不是另一家公司。Google 的算法问题和 Facebook 的算法问题本质上是一样的。
+There are some broad differences between companies. Some companies specialize in algorithms (often used in some system design), while Others are very fond of knowledge-based questions.但在一个给定的问题类别中，几乎没有什么能让它“属于”一家公司，而不是另一家公司。Google 的算法问题和 Facebook 的算法问题本质上是一样的。
 
 ### 一切都是相对的
 
