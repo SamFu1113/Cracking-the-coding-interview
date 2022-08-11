@@ -94,7 +94,7 @@ There is no list of questions an interviewer should ask in most companies. On th
 
 Because as far as the problem is concerned, it is "free for all". Therefore, nothing makes a question "a recent Google interview question". Except that an interviewer who happened to work at Google happened to ask this question recently.
 
-The questions asked in this year's Google interviews aren't too different from the ones asked three years ago.In fact， Google 提出的问题通常与在类似公司（Amazon、Facebook等）提出的问题没有什么不同。
+The questions asked in this year's Google interviews aren't too different from the ones asked three years ago. In fact， Google 提出的问题通常与在类似公司（Amazon、Facebook等）提出的问题没有什么不同。
 
 不同公司之间存在着一些广泛的差异。一些公司专注于算法（通常被用于一些系统设计），而另一些公司则非常喜欢基于知识的问题。但在一个给定的问题类别中，几乎没有什么能让它“属于”一家公司，而不是另一家公司。Google 的算法问题和 Facebook 的算法问题本质上是一样的。
 
