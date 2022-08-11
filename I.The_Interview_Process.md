@@ -92,7 +92,7 @@ Candidates were often asked what was the "most recent" interview question at a c
 
 There is no list of questions an interviewer should ask in most companies. On the contrary, each interviewer chooses their own questions.
 
-Because as far as the problem is concerned, it is "free for all". Therefore, nothing makes a question "a recent Google interview question", Except that an interviewer who happened to work at Google happened to ask this question recently.
+Because as far as the problem is concerned, it is "free for all". Therefore, nothing makes a question "a recent Google interview question" Except that an interviewer who happened to work at Google happened to ask this question recently.
 
 今年 Google 面试被问到的的问题与三年前的问题并没有太大区别。事实上， Google 提出的问题通常与在类似公司（Amazon、Facebook等）提出的问题没有什么不同。
 
