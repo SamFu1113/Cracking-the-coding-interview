@@ -102,7 +102,7 @@ There are some broad differences between companies. Some companies specialize in
 
 Without a scoring system, how were you evaluated? How do interviewers know what to expect from you?
 
-It's a good question. Once understood,答案就会变得很有意义。
+It's a good question. Once you understood,答案就会变得很有意义。
 
 面试官会通过在同一个面试官的同一个问题上的表现评估你与其他候选人的优劣。这是一个相对比较。
 
