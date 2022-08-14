@@ -98,7 +98,7 @@ The questions asked in this year's Google interviews aren't too different from t
 
 There are some broad differences between companies. Some companies specialize in algorithms (often used in some system design), while others are very fond of knowledge-based questions. However, within a given problem category,几乎没有什么能让它“属于”一家公司，而不是另一家公司。Google 的算法问题和 Facebook 的算法问题本质上是一样的。
 
-### 一切都是相对的
+### everything is relative
 
 如果没有评分系统，你是如何被评估的？面试官如何知道你的期望？
 
