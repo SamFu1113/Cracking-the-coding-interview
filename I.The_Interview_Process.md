@@ -100,7 +100,7 @@ There are some broad differences between companies. Some companies specialize in
 
 ### Everything is relative
 
-如果没有评分系统，你是如何被评估的？面试官如何知道你的期望？
+Without a scoring system,你是如何被评估的？面试官如何知道你的期望？
 
 好问题。一旦理解了，答案就会变得很有意义。
 
