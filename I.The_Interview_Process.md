@@ -104,7 +104,7 @@ Without a scoring system, how were you evaluated? How do interviewers know what 
 
 It's a good question. Once you understood, the answer becomes meaningful.
 
-The interviewer will evaluate you against other candidates by your performance on the same question from the same interviewer.这是一个相对比较。
+The interviewer will evaluate you against other candidates by your performance on the same question from the same interviewer. This is a relative comparison.
 
 例如，假设你想出了一个很酷的新脑筋急转弯或数学问题。你问你的朋友 Alex 这个问题，他花了30分钟来解决它。你问 Bella，她花了50分钟。Chris 永远也解不出来。Dexter 需要15分钟，但你必须给他一些重要的提示，如果没有这些提示，他可能会花更长的时间。Ellie 采用了 10 种方法，并提出了一个你甚至都不知道的替代方法。Fred 需要35分钟。
 
