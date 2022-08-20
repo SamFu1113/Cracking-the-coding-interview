@@ -106,7 +106,7 @@ It's a good question. Once you understood, the answer becomes meaningful.
 
 The interviewer will evaluate you against other candidates by your performance on the same question from the same interviewer. This is a relative comparison.
 
-For instance, say you come up with a cool new brain teaser or math problem. You ask your friend Alex this question, and it took him 30 minutes to fix it. On the other hand, you ask BellaShe took 50 minutes.Chris 永远也解不出来。Dexter 需要15分钟，但你必须给他一些重要的提示，如果没有这些提示，他可能会花更长的时间。Ellie 采用了 10 种方法，并提出了一个你甚至都不知道的替代方法。Fred 需要35分钟。
+For instance, say you come up with a cool new brain teaser or math problem. You ask your friend Alex this question, and it took him 30 minutes to fix it. On the other hand, you ask BellaandShe took 50 minutes.Chris 永远也解不出来。Dexter 需要15分钟，但你必须给他一些重要的提示，如果没有这些提示，他可能会花更长的时间。Ellie 采用了 10 种方法，并提出了一个你甚至都不知道的替代方法。Fred 需要35分钟。
 
 你会走开，说道，“哇，Ellie 表现得真不错。我敢打赌她的数学一定很好。”（当然，很有可能只是她比较走运，而 Chris 不走运。你可能会问更多的问题，以确保这不是因为运气好或运气坏。）
 
