@@ -108,7 +108,7 @@ The interviewer will evaluate you against other candidates by your performance o
 
 For instance, say you come up with a cool new brain teaser or math problem. You ask your friend Alex this question, and it took him 30 minutes to fix it. On the other hand, you ask Bella and she took 50 minutes. On the other hand, Chris can never figure it out. Dexter spends 15 minutes, but you have to give him some important tips. Without these tips, he may spend longer time. Ellie uses 10 methods and came up with an alternative you didn't even know about. Fred needs 35 minutes finally.
 
-You will go away and say “Wow, Ellie is doing really well. I bet she's pretty good at math.” （Of course, it's possible that she was just lucky, and Chris was out of luck.你可能会问更多的问题，以确保这不是因为运气好或运气坏。）
+You will go away and say “Wow, Ellie is doing really well. I bet she's pretty good at math.” （Of course, it's possible that she was just lucky and Chris was out of luck.你可能会问更多的问题，以确保这不是因为运气好或运气坏。）
 
 面试问题也是如此。面试官通过将你与其他人进行比较，会对你的表现有所了解。当然这和她那周面试的候选人无关，而是基于她曾经问过这个问题的所有候选人的表现。
 
