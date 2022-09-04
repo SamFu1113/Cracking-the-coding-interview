@@ -110,7 +110,7 @@ For instance, say you come up with a cool new brain teaser or math problem. You 
 
 You will go away and say “Wow, Ellie is doing really well. I bet she's pretty good at math.” (Of course, it's possible that she was just lucky and Chris was out of luck. You may ask more questions to make sure it's not due to good or bad luck.) 
 
-The same goes for interview questions. By comparing you to other people, the interviewer will get an idea of ​​your performance. Of course it had nothing to do with the candidates she interviewed that week. Rather, it's based on the performance of all the candidates she's ever asked the question.
+The same goes for interview questions. By comparing you to other people, the interviewer will get an idea of ​​your performance. Of course, it had nothing to do with the candidates she interviewed that week. Rather, it's based on the performance of all the candidates she's ever asked the question.
 
 因此，被问到一个很难的问题并不是一件坏事。如果对你来说很难，那对每个人来说也都是很难的。这并不会降低你成功的可能性。
 
