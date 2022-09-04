@@ -112,7 +112,7 @@ You will go away and say “Wow, Ellie is doing really well. I bet she's pretty 
 
 The same goes for interview questions. By comparing you to other people, the interviewer will get an idea of ​​your performance. Of course, it had nothing to do with the candidates she interviewed that week. Rather, it's based on the performance of all the candidates she's ever asked the question.
 
-Therefore, it's not a bad thing to be asked a hard question.如果对你来说很难，那对每个人来说也都是很难的。这并不会降低你成功的可能性。
+Therefore, it's not a bad thing to be asked a hard question. 如果对你来说很难，那对每个人来说也都是很难的。这并不会降低你成功的可能性。
 
 ### FAQ
 
