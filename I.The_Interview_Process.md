@@ -117,6 +117,7 @@ Therefore, it's not a bad thing to be asked a hard question. If it's hard for yo
 ### FAQ
 
 #### I didn't hear back immediately after the interview. Am I being rejected?
+
 No.公司的决定可能会被推迟，原因有很多。一个非常简单的解释是，你的一位面试官还没有给出他们的反馈。很少有公司的政策是不回应他们拒绝的候选人。
 
 如果你在面试后的 3~5 个工作日内没有收到任何公司的回复，礼貌地和招聘人员联系。
