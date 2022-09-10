@@ -118,7 +118,7 @@ Therefore, it's not a bad thing to be asked a hard question. If it's hard for yo
 
 #### I didn't hear back immediately after the interview. Am I being rejected?
 
-No. The company's decision may be delayed. There are many reasons. A very simple explanation is that one of your interviewers has yet to give their feedback. But Few companies have a policy of not responding to candidates they reject.
+No. The company's decision may be delayed. There are many reasons. A very simple explanation is that one of your interviewers has yet to give their feedback. But few companies have a policy of not responding to candidates they reject.
 
 如果你在面试后的 3~5 个工作日内没有收到任何公司的回复，礼貌地和招聘人员联系。
 
