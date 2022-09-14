@@ -124,4 +124,4 @@ If you do not receive a response from any company within 3-5 working days after 
 
 #### Can I reapply to the company after I have been rejected?
 
-几乎都是可以的，但你通常需要等待一段时间（6 个月到 1 年）。当你重新面试时，你的第一次不良面试通常不会对你产生太大的影响。许多人曾被 Google 或 Microsoft 拒绝过，但后来都得到了他们的 offer。
+It's almost possible,但你通常需要等待一段时间（6 个月到 1 年）。当你重新面试时，你的第一次不良面试通常不会对你产生太大的影响。许多人曾被 Google 或 Microsoft 拒绝过，但后来都得到了他们的 offer。
