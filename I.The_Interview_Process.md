@@ -120,7 +120,7 @@ Therefore, it's not a bad thing to be asked a hard question. If it's hard for yo
 
 No. The company's decision may be delayed. There are many reasons. A very simple explanation is that one of your interviewers has yet to give their feedback. But few companies have a policy of not responding to candidates they reject.
 
-If you do not receive a response from any company within 3-5 working days after the interview,礼貌地和招聘人员联系。
+If you do not receive a response from any company within 3-5 working days after the interview,Contact the recruiter politely.
 
 #### 我被拒绝后可以重新申请公司吗？
 
