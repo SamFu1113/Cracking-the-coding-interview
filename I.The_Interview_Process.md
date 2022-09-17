@@ -124,4 +124,4 @@ If you do not receive a response from any company within 3-5 working days after 
 
 #### Can I reapply to the company after I have been rejected?
 
-It's almost possible, but you usually have to wait a while (6 months to 1 year). When you re-interview, your first bad interview usually doesn't affect you much. Many people have been rejected by Google or Microsoft,但后来都得到了他们的 offer。
+It's almost possible, but you usually have to wait a while (6 months to 1 year). When you re-interview, your first bad interview usually doesn't affect you much. Many people have been rejected by Google or Microsoft, but later got their offer.
