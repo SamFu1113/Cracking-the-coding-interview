@@ -1,6 +1,6 @@
 # II. Behind the Scenes
 
-&nbsp;&nbsp;&nbsp;&nbsp;Most companies interview in a very similar way. In this chapter, we'll outline how some companies interview and what they value. This information will guide you on how to prepare for your interview,And how to behave during and after the interview.
+&nbsp;&nbsp;&nbsp;&nbsp;Most companies interview in a very similar way. In this chapter, we'll outline how some companies interview and what they value. This information will guide you on how to prepare for your interviewAnd how to behave during and after the interview.
 
 一旦你被选中参加面试，你通常要经过一次筛选面试。这通常是通过电话进行的。而就读于名校的应届求职者将很可能是面对面现场体验这类面试的。
 
