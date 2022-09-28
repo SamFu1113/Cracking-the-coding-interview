@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Most companies interview in a very similar way. In this chapter, we'll outline how some companies interview and what they value. This information will guide you on how to prepare for your interview and how to behave during and after the interview.
 
-Once you are selected for an interview, you will usually go through a screening interview. This is usually done over the phone.而就读于名校的应届求职者将很可能是面对面现场体验这类面试的。
+Once you are selected for an interview, you will usually go through a screening interview. This is usually done over the phone.Fresh job seekers studying at elite schools will likely experience such interviews face-to-face.
 
 别让这个名字迷惑了你，“筛选”面试通常涉及编码和算法问题，并且面试的门槛可能和面对面面试（in-person interview）一样高。如果你不确定面试是否是技术性的，问问你的招聘协调人你的面试官所担任的职位（或面试可能涵盖的范围）。例如，如果是工程师的话，通常会进行技术面试。
 
