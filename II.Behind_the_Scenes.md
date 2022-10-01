@@ -4,7 +4,7 @@
 
 Once you are selected for an interview, you will usually go through a screening interview. This is usually done over the phone. Fresh job seekers studying at elite schools will likely experience such interviews face-to-face.
 
-Don't let the name fool you. "Screening" interviews often involve coding and algorithm questions and the bar for an interview can be as high as an in-person interview. If you are not sure if the interview is technical, ask your recruiting coordinator what role your interviewer holds（或面试可能涵盖的范围）。例如，如果是工程师的话，通常会进行技术面试。
+Don't let the name fool you. "Screening" interviews often involve coding and algorithm questions and the bar for an interview can be as high as an in-person interview. If you are not sure if the interview is technical, ask your recruiting coordinator what role your interviewer holds(or what the interview might cover)。例如，如果是工程师的话，通常会进行技术面试。
 
 许多公司都利用了在线同步文档编辑器，但也有一些公司希望你将代码写在纸上，然后在电话里向面试官将其读回。甚至，有些面试官会在挂电话后给你布置“家庭作业”，或者只是让你把写的代码通过电子邮件发给他们。
 
