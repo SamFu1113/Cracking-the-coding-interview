@@ -6,7 +6,7 @@ Once you are selected for an interview, you will usually go through a screening 
 
 Don't let the name fool you. "Screening" interviews often involve coding and algorithm questions and the bar for an interview can be as high as an in-person interview. If you are not sure if the interview is technical, ask your recruiting coordinator what role your interviewer holds (or what the interview might cover) 。For instance, if you are an engineer, there is usually a technical interview.
 
-许多公司都利用了在线同步文档编辑器，但也有一些公司希望你将代码写在纸上，然后在电话里向面试官将其读回。甚至，有些面试官会在挂电话后给你布置“家庭作业”，或者只是让你把写的代码通过电子邮件发给他们。
+Many companies take advantage of online sync document editors,但也有一些公司希望你将代码写在纸上，然后在电话里向面试官将其读回。甚至，有些面试官会在挂电话后给你布置“家庭作业”，或者只是让你把写的代码通过电子邮件发给他们。
 
 在进行现场面试（on-site）之前，你通常要经过一两个面试官的筛选。
 
