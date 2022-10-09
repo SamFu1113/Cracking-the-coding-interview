@@ -10,7 +10,7 @@ Many companies take advantage of online sync document editors, but there are als
 
 Before conducting an on-site interview, you will usually be screened by one or two interviewers.
 
-在现场面试中，你通常会有 3 到 6 次面对面的面试。其中之一经常是在午餐时间。午餐面试通常不是技术性的，面试官甚至可能不会提交反馈。你可以与面试官讨论你的兴趣爱好，或者也可以询问公司的企业文化。你的其他面试大多是技术性的，涉及编码、算法、设计/架构和工作经历/经验问题的组合。
+During the on-site interview,你通常会有 3 到 6 次面对面的面试。其中之一经常是在午餐时间。午餐面试通常不是技术性的，面试官甚至可能不会提交反馈。你可以与面试官讨论你的兴趣爱好，或者也可以询问公司的企业文化。你的其他面试大多是技术性的，涉及编码、算法、设计/架构和工作经历/经验问题的组合。
 
 由于公司的优先级、规模和纯粹的随机性，上述主题范围内的问题在不同公司甚至不同团队之间的分布都不相同。面试官在面试问题上通常有很大的自由度。
 
