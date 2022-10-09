@@ -8,7 +8,7 @@ Don't let the name fool you. "Screening" interviews often involve coding and alg
 
 Many companies take advantage of online sync document editors, but there are also some companies that want you to write the code on paper, and then read it back to the interviewer on the phone. Even some interviewers will give you "homework" after hanging up the phone, or just let you email them the code you wrote.
 
-在进行现场面试（on-site）之前，你通常要经过一两个面试官的筛选。
+Before conducting an on-site interview,你通常要经过一两个面试官的筛选。
 
 在现场面试中，你通常会有 3 到 6 次面对面的面试。其中之一经常是在午餐时间。午餐面试通常不是技术性的，面试官甚至可能不会提交反馈。你可以与面试官讨论你的兴趣爱好，或者也可以询问公司的企业文化。你的其他面试大多是技术性的，涉及编码、算法、设计/架构和工作经历/经验问题的组合。
 
