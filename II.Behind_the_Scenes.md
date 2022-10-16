@@ -10,7 +10,7 @@ Many companies take advantage of online sync document editors, but there are als
 
 Before conducting an on-site interview, you will usually be screened by one or two interviewers.
 
-During the on-site interview, you will usually have 3 to 6 face-to-face interviews. One of them is often at lunchtime. Lunch interviews are usually not technical, and the interviewer may not even submit feedback.你可以与面试官讨论你的兴趣爱好，或者也可以询问公司的企业文化。你的其他面试大多是技术性的，涉及编码、算法、设计/架构和工作经历/经验问题的组合。
+During the on-site interview, you will usually have 3 to 6 face-to-face interviews. One of them is often at lunchtime. Lunch interviews are usually not technical, and the interviewer may not even submit feedback.You can discuss your hobbies with the interviewer,或者也可以询问公司的企业文化。你的其他面试大多是技术性的，涉及编码、算法、设计/架构和工作经历/经验问题的组合。
 
 由于公司的优先级、规模和纯粹的随机性，上述主题范围内的问题在不同公司甚至不同团队之间的分布都不相同。面试官在面试问题上通常有很大的自由度。
 
