@@ -14,7 +14,7 @@ During the on-site interview, you will usually have 3 to 6 face-to-face intervie
 
 Due to company priorities, size and sheer randomness, issues within the above topic range are distributed differently across companies and even across teams. Interviewers usually have a lot of latitude in interview questions.
 
-面试后，面试官会以某种形式提供反馈。在一些公司，面试官会聚在一起讨论你的表现并做出决定。在其他公司，面试官会向招聘经理或招聘委员会提交一份建议，以做出最终决定。也有一些公司，面试官甚至不做决定，他们的反馈会被直接提交给招聘委员会，由他们来做决定。
+After the interview,面试官会以某种形式提供反馈。在一些公司，面试官会聚在一起讨论你的表现并做出决定。在其他公司，面试官会向招聘经理或招聘委员会提交一份建议，以做出最终决定。也有一些公司，面试官甚至不做决定，他们的反馈会被直接提交给招聘委员会，由他们来做决定。
 
 大多数公司在一周后就会采取下一步行动（发offer、拒绝、进一步面试，或者只是更新流程）。一些公司的反馈速度很快（有时是同一天！），而另一些公司的反应时间要长得多。
 
