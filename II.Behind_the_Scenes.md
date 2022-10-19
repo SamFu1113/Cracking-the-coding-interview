@@ -12,7 +12,7 @@ Before conducting an on-site interview, you will usually be screened by one or t
 
 During the on-site interview, you will usually have 3 to 6 face-to-face interviews. One of them is often at lunchtime. Lunch interviews are usually not technical, and the interviewer may not even submit feedback. You can discuss your hobbies with the interviewer, or ask about the company's corporate culture. Your other interviews are mostly technical, involving coding, algorithms, design/architecture and a combination of work history/experience questions.
 
-Due to company priorities, size and sheer randomness,Issues within the above topic range are distributed differently across companies and even across teams.面试官在面试问题上通常有很大的自由度。
+Due to company priorities, size and sheer randomness, Issues within the above topic range are distributed differently across companies and even across teams.面试官在面试问题上通常有很大的自由度。
 
 面试后，面试官会以某种形式提供反馈。在一些公司，面试官会聚在一起讨论你的表现并做出决定。在其他公司，面试官会向招聘经理或招聘委员会提交一份建议，以做出最终决定。也有一些公司，面试官甚至不做决定，他们的反馈会被直接提交给招聘委员会，由他们来做决定。
 
