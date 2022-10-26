@@ -14,7 +14,7 @@ During the on-site interview, you will usually have 3 to 6 face-to-face intervie
 
 Due to company priorities, size and sheer randomness, issues within the above topic range are distributed differently across companies and even across teams. Interviewers usually have a lot of latitude in interview questions.
 
-After the interview, the interviewer will provide feedback in some form. In some companies, the interviewer will come together to discuss your performance and make a decision. In other companies, the interviewer will submit a proposal to the hiring manager or hiring committee to make a final decision.The interviewer doesn't even make a decision in some companies他们的反馈会被直接提交给招聘委员会，由他们来做决定。
+After the interview, the interviewer will provide feedback in some form. In some companies, the interviewer will come together to discuss your performance and make a decision. In other companies, the interviewer will submit a proposal to the hiring manager or hiring committee to make a final decision.The interviewer doesn't even make a decision in some companies,他们的反馈会被直接提交给招聘委员会，由他们来做决定。
 
 大多数公司在一周后就会采取下一步行动（发offer、拒绝、进一步面试，或者只是更新流程）。一些公司的反馈速度很快（有时是同一天！），而另一些公司的反应时间要长得多。
 
