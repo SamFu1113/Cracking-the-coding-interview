@@ -17,6 +17,7 @@ Due to company priorities, size and sheer randomness, issues within the above to
 After the interview, the interviewer will provide feedback in some form. In some companies, the interviewer will come together to discuss your performance and make a decision. In other companies, the interviewer will submit a proposal to the hiring manager or hiring committee to make a final decision.The interviewer doesn't even make a decision in some companies and their feedback is submitted directly to the hiring committee. It's up to them.
 
 Most companies take their next move after a week (send offer, reject, further interviews, or just update the process)。Feedback from some companies is fast（有时是同一天！），而另一些公司的反应时间要长得多。
+Most companies take their next move after a week (send offer, reject, further interviews, or just update the process).Feedback from some companies is fast（有时是同一天！），而另一些公司的反应时间要长得多。
 
 如果你已经等了一个多星期，你应该跟招聘人员联系一下。如果你的招聘人员没有回应，这并不意味着你就被拒绝了（至少在任何大型科技公司以及几乎所有其他公司中都没有这种情况）。让我再重复一遍：不回复跟你的面试状态并无直接联系。换句话说，一旦做出最终决定，所有招聘人员都应当会告诉求职者。
 
