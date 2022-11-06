@@ -18,7 +18,7 @@ After the interview, the interviewer will provide feedback in some form. In some
 
 Most companies take their next move after a week (send offer, reject, further interviews, or just update the process). Feedback from some companies is fast (sometimes the same day!), while others took much longer to respond.
 
-If you have waited more than a week,You should contact the recruiter.如果你的招聘人员没有回应，这并不意味着你就被拒绝了（至少在任何大型科技公司以及几乎所有其他公司中都没有这种情况）。让我再重复一遍：不回复跟你的面试状态并无直接联系。换句话说，一旦做出最终决定，所有招聘人员都应当会告诉求职者。
+If you have waited more than a week, You should contact the recruiter.如果你的招聘人员没有回应，这并不意味着你就被拒绝了（至少在任何大型科技公司以及几乎所有其他公司中都没有这种情况）。让我再重复一遍：不回复跟你的面试状态并无直接联系。换句话说，一旦做出最终决定，所有招聘人员都应当会告诉求职者。
 
 延迟可能而且确实会发生。如果预计会有延迟，请与招聘人员联系，但这样做时要保持尊重。招聘人员和你一样，他们有时也会忙碌和健忘。
 
