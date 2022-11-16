@@ -20,7 +20,7 @@ Most companies take their next move after a week (send offer, reject, further in
 
 If you have waited more than a week, you should contact the recruiter. If your recruiter doesn't respond, it doesn't mean you're rejected (At least that's not the case at big tech companies, and pretty much everyone else) . Let me repeat it again. Failure to respond is not directly related to your interview status. That is to say, once the final decision is made, all recruiters should tell job applicants.
 
-Delays can and do happen. If delays are expected, please contact the recruiter. But do so with respect.Recruiters are just like you,他们有时也会忙碌和健忘。
+Delays can and do happen. If delays are expected, please contact the recruiter. But do so with respect. Recruiters are just like you,他们有时也会忙碌和健忘。
 
 ### Microsoft 面试
 
