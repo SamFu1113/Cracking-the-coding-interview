@@ -22,7 +22,7 @@ If you have waited more than a week, you should contact the recruiter. If your r
 
 Delays can and do happen. If delays are expected, please contact the recruiter. But do so with respect. Recruiters are just like you and they can also be busy and forgetful at times.
 
-### Microsoft 面试
+### Microsoft interview
 
 Microsoft 想要聪明的人、极客、热爱科技的人。你可能不会被考察 C++ AP l的输入输出，但是你需要做到在白板上编写代码。
 
