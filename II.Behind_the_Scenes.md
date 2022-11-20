@@ -24,7 +24,7 @@ Delays can and do happen. If delays are expected, please contact the recruiter. 
 
 ### Microsoft interview
 
-Microsoft wants smart people、极客、热爱科技的人。你可能不会被考察 C++ AP l的输入输出，但是你需要做到在白板上编写代码。
+Microsoft wants smart peopleGeeks、热爱科技的人。你可能不会被考察 C++ AP l的输入输出，但是你需要做到在白板上编写代码。
 
 在一个典型的面试中，你将在早上的某个时间出现在 Microsoft，填写一些基础资料。接着你将有一个简短的面试，招聘人员会给你一个简单的问题。招聘人员通常是为了帮你做准备，而不是盘问你技术问题。如果你被问到一些基本的技术问题，那可能是因为你的招聘人员想让你轻松地进入面试，这样当“真正的”面试开始时，你就不会那么紧张了。
 
