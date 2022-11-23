@@ -26,7 +26,7 @@ Delays can and do happen. If delays are expected, please contact the recruiter. 
 
 Microsoft wants smart people, geeks and people who love technology. You probably won't be inspected for C++ API calls, but you need to be able to write code on a whiteboard.
 
-在一个典型的面试中，你将在早上的某个时间出现在 Microsoft，填写一些基础资料。接着你将有一个简短的面试，招聘人员会给你一个简单的问题。招聘人员通常是为了帮你做准备，而不是盘问你技术问题。如果你被问到一些基本的技术问题，那可能是因为你的招聘人员想让你轻松地进入面试，这样当“真正的”面试开始时，你就不会那么紧张了。
+In a typical interview,你将在早上的某个时间出现在 Microsoft，填写一些基础资料。接着你将有一个简短的面试，招聘人员会给你一个简单的问题。招聘人员通常是为了帮你做准备，而不是盘问你技术问题。如果你被问到一些基本的技术问题，那可能是因为你的招聘人员想让你轻松地进入面试，这样当“真正的”面试开始时，你就不会那么紧张了。
 
 善待你的招聘人员。你的招聘人员可能是你最大的支持者，如果你在第一次面试中遇到失误，他们甚至会敦促你重新面试。他们可以为你争取工作——或者不争取！
 
