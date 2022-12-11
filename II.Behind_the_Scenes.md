@@ -26,7 +26,7 @@ Delays can and do happen. If delays are expected, please contact the recruiter. 
 
 Microsoft wants smart people, geeks and people who love technology. You probably won't be inspected for C++ API calls, but you need to be able to write code on a whiteboard.
 
-In a typical interview, you will be at Microsoft sometime in the morning and fill in some basic information. Then you will have a short interview as follow: a recruiter will give you a simple question. Recruiters are usually there to help you prepare the interview instead of asking you technical questions. If you are asked some basic technical questions, that could be because your recruiter wants to ease you into the interview.这样当“真正的”面试开始时，你就不会那么紧张了。
+In a typical interview, you will be at Microsoft sometime in the morning and fill in some basic information. Then you will have a short interview as follow: a recruiter will give you a simple question. Recruiters are usually there to help you prepare the interview instead of asking you technical questions. If you are asked some basic technical questions, that could be because your recruiter wants to ease you into the interview.so that when the "real" interview begins,你就不会那么紧张了。
 
 善待你的招聘人员。你的招聘人员可能是你最大的支持者，如果你在第一次面试中遇到失误，他们甚至会敦促你重新面试。他们可以为你争取工作——或者不争取！
 
