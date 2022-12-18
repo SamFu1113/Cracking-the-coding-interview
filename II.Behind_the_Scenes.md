@@ -28,7 +28,7 @@ Microsoft wants smart people, geeks and people who love technology. You probably
 
 In a typical interview, you will be at Microsoft sometime in the morning and fill in some basic information. Then you will have a short interview as follow: a recruiter will give you a simple question. Recruiters are usually there to help you prepare the interview instead of asking you technical questions. If you are asked some basic technical questions, that could be because your recruiter wants to ease you into the interview. Therefore, when the "real" interview begins, you won't be so nervous.
 
-Be kind to your recruiters. Because your recruiter may be your biggest advocate. If you fail in your first interview, they may even urge you to re-interview. 他们可以为你争取工作——或者不争取！
+Be kind to your recruiters. Because your recruiter may be your biggest advocate. If you fail in your first interview, they may even urge you to re-interview. they can get you a job——或者不争取！
 
 白天，你将进行四到五次面试，通常是由两个不同的团队来执行。不像许多公司，你在会议室会见面试官，在 Microsoft，你会与面试官在他们的办公室会见。这是一个很好的时机，你可以看看周围，感受一下团队文化。
 
