@@ -30,7 +30,7 @@ In a typical interview, you will be at Microsoft sometime in the morning and fil
 
 Be kind to your recruiters. Because your recruiter may be your biggest advocate. If you fail in your first interview, they may even urge you to re-interview. they can get you a job or don't get it for you!
 
-In the morning, you will have four or five interviews. Usually performed by two different teams. Unlike many companies, you meet the interviewer in a conference room. In Microsoft, you will meet with the interviewer in their office. It's a good time because you can look around,Get a feel for the team culture.
+In the morning, you will have four or five interviews. Usually performed by two different teams. Unlike many companies, you meet the interviewer in a conference room. In Microsoft, you will meet with the interviewer in their office. It's a good time because you can look aroundGet a feel for the team culture.
 
 根据团队的不同，面试官可能会也可能不会将他们对你的反馈分享给面试的其他环节。
 
