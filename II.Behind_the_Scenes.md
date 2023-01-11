@@ -32,7 +32,7 @@ Be kind to your recruiters. Because your recruiter may be your biggest advocate.
 
 In the morning, you will have four or five interviews. Usually performed by two different teams. Unlike many companies, you meet the interviewer in a conference room. In Microsoft, you will meet with the interviewer in their office. It's a good time because you can look around and get a feel for the team culture.
 
-Depending on the team,The interviewer may or may not share their feedback about you with the rest of the interview.
+Depending on the team, The interviewer may or may not share their feedback about you with the rest of the interview.
 
 当你完成对一个团队的面试时，你可能会与招聘经理交谈（通常被称为“as app”，即“as appropriate”的缩写）。如果是这样，那是一个好兆头！这很可能意味着你通过了一个特定团队的面试。现在就看招聘经理的决定了。
 
