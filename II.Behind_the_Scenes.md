@@ -34,7 +34,7 @@ In the morning, you will have four or five interviews. Usually performed by two 
 
 Depending on the team, the interviewer may (or may not) share their feedback about you with the rest of the interview.
 
-When you finish interviewing a team, you might talk to a hiring manager(often referred to as "as app" which is the abbreviation of "as appropriate"）.如果是这样，那是一个好兆头！这很可能意味着你通过了一个特定团队的面试。现在就看招聘经理的决定了。
+When you finish interviewing a team, you might talk to a hiring manager(often referred to as "as app" which is the abbreviation of "as appropriate").如果是这样，那是一个好兆头！这很可能意味着你通过了一个特定团队的面试。现在就看招聘经理的决定了。
 
 你可能会当天收到决定，也可能是一个星期。在一周没有人力资源部门的消息后，发一封友好的电子邮件询问状态更新。
 
