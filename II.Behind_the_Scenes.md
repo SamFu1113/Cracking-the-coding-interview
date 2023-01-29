@@ -36,7 +36,7 @@ Depending on the team, the interviewer may (or may not) share their feedback abo
 
 When you finish interviewing a team, you might talk to a hiring manager(often referred to as "as app" which is the abbreviation of "as appropriate"). If this is the case, that's a good sign! Because it most likely means that you passed an interview with a particular team. Now it's up to the hiring manager to decide.
 
-你可能会当天收到决定，也可能是一个星期。在一周没有人力资源部门的消息后，发一封友好的电子邮件询问状态更新。
+You may receive a decision the same day,也可能是一个星期。在一周没有人力资源部门的消息后，发一封友好的电子邮件询问状态更新。
 
 如果你的招聘人员反应不积极，那是因为她很忙，而不是因为你被默默拒绝了。
 
