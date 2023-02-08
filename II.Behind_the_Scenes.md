@@ -38,7 +38,7 @@ When you finish interviewing a team, you might talk to a hiring manager(often re
 
 You may receive a decision the same day, but it could also be a week. After a week of no news from HR, you could send a friendly email asking for a status update.
 
-如果你的招聘人员反应不积极，那是因为她很忙，而不是因为你被默默拒绝了。
+If your recruiters are unresponsive,那是因为她很忙，而不是因为你被默默拒绝了。
 
 #### 必要的准备：
 
