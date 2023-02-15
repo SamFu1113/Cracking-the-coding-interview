@@ -40,7 +40,7 @@ You may receive a decision the same day, but it could also be a week. After a we
 
 If your recruiters are unresponsive, it may be because she's busy rather than being silently rejected.
 
-#### necessary preparation：
+#### Necessary preparation：
 
 “你为什么想为 Microsoft 工作？”
 
