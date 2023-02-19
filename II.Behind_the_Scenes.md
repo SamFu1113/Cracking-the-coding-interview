@@ -44,7 +44,7 @@ If your recruiters are unresponsive, it may be because she's busy rather than be
 
 "Why do you want to work for Microsoft?"
 
-In this question, Microsoft hope to see your passion for technology.一个很好的回答可能是：“从我记事起，我就一直在使用 Microsoft 的软件，我对 Microsoft 如何创造出一款普遍优秀的产品印象深刻。例如，我最近一直在使用 Visual Studio 学习游戏编程，它的 APl 非常出色”。请注意，这样的答案显示了对技术的热情！
+In this question, Microsoft hopes to see your passion for technology.一个很好的回答可能是：“从我记事起，我就一直在使用 Microsoft 的软件，我对 Microsoft 如何创造出一款普遍优秀的产品印象深刻。例如，我最近一直在使用 Visual Studio 学习游戏编程，它的 APl 非常出色”。请注意，这样的答案显示了对技术的热情！
 
 #### 独特之处：
 
