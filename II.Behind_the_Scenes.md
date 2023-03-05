@@ -48,7 +48,7 @@ In this question, Microsoft hopes to see your passion for technology. A good ans
 
 #### Unique feature
 
-只有当你表现得很优秀时，才会联系到招聘经理，因此如果你能与其谈话的话，这是一个很好的迹象！
+Only when you're good,才会联系到招聘经理，因此如果你能与其谈话的话，这是一个很好的迹象！
 
 此外，Microsoft 倾向于赋予团队更多的个人控制权，并且产品集是多样化的。由于不同的团队看重不同的方面，因此 Microsoft 内不同部门的体验可能会有很大差异。
 
