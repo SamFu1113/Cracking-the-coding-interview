@@ -46,7 +46,7 @@ If your recruiters are unresponsive, it may be because she's busy rather than be
 
 In this question, Microsoft hopes to see your passion for technology. A good answer might be: "I've been using Microsoft software for as long as I can remember, and I've been impressed with how Microsoft has created a generally good product. For instance, I've been learning game programming using Visual Studio lately and its APl is excellent”. Please note that answers like this show a passion for technology!
 
-#### 独特之处：
+#### Unique feature
 
 只有当你表现得很优秀时，才会联系到招聘经理，因此如果你能与其谈话的话，这是一个很好的迹象！
 
