@@ -50,7 +50,7 @@ In this question, Microsoft hopes to see your passion for technology. A good ans
 
 Only when you're good, you will contact the hiring manager. Therefore, if you could talk to him(her), that's a great sign!
 
-此外，Microsoft 倾向于赋予团队更多的个人控制权，并且产品集是多样化的。由于不同的团队看重不同的方面，因此 Microsoft 内不同部门的体验可能会有很大差异。
+Furthermore, Microsoft 倾向于赋予团队更多的个人控制权，并且产品集是多样化的。由于不同的团队看重不同的方面，因此 Microsoft 内不同部门的体验可能会有很大差异。
 
 ### Amazon 面试
 
