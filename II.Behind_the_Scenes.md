@@ -50,7 +50,7 @@ In this question, Microsoft hopes to see your passion for technology. A good ans
 
 Only when you're good, you will contact the hiring manager. Therefore, if you could talk to him(her), that's a great sign!
 
-Furthermore, Microsoft tends to give teams more individual control and the product set is diverse.Since different teams value different aspects,因此 Microsoft 内不同部门的体验可能会有很大差异。
+Furthermore, Microsoft tends to give teams more individual control and the product set is diverse.Since different teams value different aspects,So the experience of different departments within Microsoft can vary widely.
 
 ### Amazon 面试
 
