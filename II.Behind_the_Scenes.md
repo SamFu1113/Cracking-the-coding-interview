@@ -52,7 +52,7 @@ Only when you're good, you will contact the hiring manager. Therefore, if you co
 
 Furthermore, Microsoft tends to give teams more individual control and the product set is diverse. Since different teams value different aspects, so the experience of different departments within Microsoft can vary widely.
 
-### Amazon 面试
+### Amazon interview
 
 Amazon 的招聘流程通常从电话视频开始的，由一个特定的团队对候选人进行面试。在一小段时间内，候选人可能会有两次或两次以上的面试，这要么表明他们的面试官之一没有被说服，要么表明他们被考虑进入一个不同的团队或资料库。在更不寻常的情况下，例如，当一个求职者在公司当地或最近参加过另一个职位的面试时，他可能只需要做一次电话面试。
 
