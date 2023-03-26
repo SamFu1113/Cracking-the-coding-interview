@@ -54,7 +54,7 @@ Furthermore, Microsoft tends to give teams more individual control and the produ
 
 ### Amazon interview
 
-Amazon's hiring process usually starts with a video call and candidates are interviewed by a specific team. For a short period of time, candidates may have two or more interviews. It either indicates that one of their interviewers was not persuaded, or they were considered for a different team or pool.In more unusual circumstances,例如，当一个求职者在公司当地或最近参加过另一个职位的面试时，他可能只需要做一次电话面试。
+Amazon's hiring process usually starts with a video call and candidates are interviewed by a specific team. For a short period of time, candidates may have two or more interviews. It either indicates that one of their interviewers was not persuaded, or they were considered for a different team or pool. In more unusual circumstances,例如，当一个求职者在公司当地或最近参加过另一个职位的面试时，他可能只需要做一次电话面试。
 
 面试你的工程师通常会要求你通过共享的文档编辑器编写简单的代码。他们还会经常提出一系列的问题来探索你所熟悉的技术领域。
 
