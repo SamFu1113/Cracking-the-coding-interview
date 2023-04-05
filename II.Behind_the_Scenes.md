@@ -58,7 +58,7 @@ Amazon's hiring process usually starts with a video call and candidates are inte
 
 The engineers interviewing you will usually ask you to write simple code through a shared documentation editor. Besides, they will also often ask a series of questions to explore technical areas that you are familiar with.
 
-接下来，你要飞往西雅图（或任何你要面试的办公室），与一两个团队进行四到五次面试，这些团队根据你的简历和电话面试选择了你。首先你将必须能在白板上写代码，一些面试官还会考察其他的技能。面试官都被分配了一个特定的区域对你进行探查，而且他们之间可能看起来非常不同。在提交自己的反馈之前，他们看不到其他人的反馈，并且在招聘会议之前，他们不提倡提前对这些反馈进行讨论。
+Next You're flying to Seattle (or whatever office you're interviewing for),与一两个团队进行四到五次面试，这些团队根据你的简历和电话面试选择了你。首先你将必须能在白板上写代码，一些面试官还会考察其他的技能。面试官都被分配了一个特定的区域对你进行探查，而且他们之间可能看起来非常不同。在提交自己的反馈之前，他们看不到其他人的反馈，并且在招聘会议之前，他们不提倡提前对这些反馈进行讨论。
 
 “挑刺者（bar raiser）”面试官负责保持面试的高标准。他们参加特殊的培训，并在负责面试的小组之外对候选人进行面试，以平衡小组的面试反馈。如果一场面试看起来非常困难且与众不同，那很可能就是 bar raiser。这个人在面试方面有丰富的经验，在招聘决定上也有否决权。但是请记住：仅仅因为你在本次面试中应对得很艰难，并不意味着你实际上的表现很差。你的表现是相对于其他候选人来判断的，它不是基于简单的“正确百分比”来评估的。
 
