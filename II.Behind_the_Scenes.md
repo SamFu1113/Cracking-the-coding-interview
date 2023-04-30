@@ -60,7 +60,7 @@ The engineers interviewing you will usually ask you to write simple code through
 
 Next you're flying to Seattle (or whatever office you're interviewing for), and have four to five interviews with a team or two. These teams selected you based on your resume and phone interview. First you will have to be able to write code on the whiteboard, and some interviewers look for other skills as well. Interviewers are assigned a specific area to scout you, and they can look very different from each other. Before submitting your own feedback, they can't see other people's feedback. Besides, they discourage discussing this feedback before the recruiting meeting.
 
-The "bar raiser" interviewer is responsible for maintaining the high standards of the interview. They participate in special training and interview candidates outside of the panel conducting the interview to balance the group interview feedback. If an interview seems very difficult and unusual, he is most likely the bar raiser. This person has extensive experience in interviewing,and he is also veto power over hiring decisions.但是请记住：仅仅因为你在本次面试中应对得很艰难，并不意味着你实际上的表现很差。你的表现是相对于其他候选人来判断的，它不是基于简单的“正确百分比”来评估的。
+The "bar raiser" interviewer is responsible for maintaining the high standards of the interview. They participate in special training and interview candidates outside of the panel conducting the interview to balance the group interview feedback. If an interview seems very difficult and unusual, he is most likely the bar raiser. This person has extensive experience in interviewing,and he also has veto power over hiring decisions.但是请记住：仅仅因为你在本次面试中应对得很艰难，并不意味着你实际上的表现很差。你的表现是相对于其他候选人来判断的，它不是基于简单的“正确百分比”来评估的。
 
 一旦你的面试官提交了他们的反馈，他们将开会讨论。他们将是做出招聘决定的人。
 
