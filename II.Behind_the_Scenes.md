@@ -62,7 +62,7 @@ Next you're flying to Seattle (or whatever office you're interviewing for), and 
 
 The "bar raiser" interviewer is responsible for maintaining the high standards of the interview. They participate in special training and interview candidates outside of the panel conducting the interview to balance the group interview feedback. If an interview seems very difficult and unusual, he is most likely the bar raiser. This person has extensive experience in interviewing, and he also has veto power over hiring decisions. However, remember if you had a hard time in this interview, it wouldn't mean you were actually performing poorly.Your performance is judged relative to other candidates, and it is not evaluated based on a simple "percent correct".
 
-Once your interviewers have submitted their feedback,They will meet and discuss.他们将是做出招聘决定的人。
+Once your interviewers have submitted their feedback, They will meet and discuss.他们将是做出招聘决定的人。
 
 虽然 Amazon 的招聘人员通常非常善于跟进候选人，但偶尔也会出现延迟。如果你一周内还没有收到 Amazon 的邮件，我们建议你发送一封友好的电子邮件来询问。
 
