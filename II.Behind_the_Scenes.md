@@ -66,7 +66,7 @@ Once your interviewers have submitted their feedback, they will meet and discuss
 
 While Amazon's recruiters are generally very good at following up with candidates, there are occasional delays. If you have not received an email from Amazon within a week, we suggest you send a friendly email with an inquiry.
 
-#### Necessary preparations:
+#### Necessary preparations
 
 Amazon 非常注重系统的扩展。确保你为可扩展性问题做好了准备。要回答这些问题，你并不一定需要有分布式系统方面的背景。请参阅我们在系统设计和可扩展性一章中的建议。
 
