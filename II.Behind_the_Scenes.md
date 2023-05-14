@@ -64,7 +64,7 @@ The "bar raiser" interviewer is responsible for maintaining the high standards o
 
 Once your interviewers have submitted their feedback, they will meet and discuss. They will be the ones making the hiring decisions.
 
-While Amazon's recruiters are generally very good at following up with candidates, there are occasional delays.If you have not received an email from Amazon within a week,我们建议你发送一封友好的电子邮件来询问。
+While Amazon's recruiters are generally very good at following up with candidates, there are occasional delays.If you have not received an email from Amazon within a week,We suggest you send a friendly email with an inquiry.
 
 #### 必要的准备：
 
