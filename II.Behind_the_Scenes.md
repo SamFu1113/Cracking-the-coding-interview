@@ -68,7 +68,7 @@ While Amazon's recruiters are generally very good at following up with candidate
 
 #### Necessary preparations
 
-Amazon places great emphasis on scaling the system. Therefore, make sure you are prepared for scalability issues.To answer these questions,You don't necessarily need a background in distributed systems.请参阅我们在系统设计和可扩展性一章中的建议。
+Amazon places great emphasis on scaling the system. Therefore, make sure you are prepared for scalability issues.To answer these questions, You don't necessarily need a background in distributed systems.请参阅我们在系统设计和可扩展性一章中的建议。
 
 此外，Amazon 倾向于问很多关于面向对象设计的问题。建议查看面向对象设计一章的示例问题和建议。
 
