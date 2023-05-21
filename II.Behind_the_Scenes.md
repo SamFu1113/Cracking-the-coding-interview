@@ -70,7 +70,7 @@ While Amazon's recruiters are generally very good at following up with candidate
 
 Amazon places great emphasis on scaling the system. Therefore, make sure you are prepared for scalability issues. To answer these questions, you don't necessarily need a background in distributed systems. See our recommendations in the System Design and Scalability chapter.
 
-此外，Amazon 倾向于问很多关于面向对象设计的问题。建议查看面向对象设计一章的示例问题和建议。
+Also, Amazon tends to ask a lot of questions about object-oriented design.建议查看面向对象设计一章的示例问题和建议。
 
 #### 独特之处：
 
