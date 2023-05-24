@@ -72,7 +72,7 @@ Amazon places great emphasis on scaling the system. Therefore, make sure you are
 
 Besides, Amazon tends to ask a lot of questions about object-oriented design. I recommend looking at the Object-Oriented Design chapter for example problems and advice.
 
-#### 独特之处：
+#### Unique feature:
 
 Bar Raiser 是由其他团队引进的，以保持高标准。你需要给这个人和招聘经理留下深刻的印象。
 
