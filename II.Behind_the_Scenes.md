@@ -74,7 +74,7 @@ Besides, Amazon tends to ask a lot of questions about object-oriented design. I 
 
 #### Unique feature
 
-Bar Raiser was introduced by another team,以保持高标准。你需要给这个人和招聘经理留下深刻的印象。
+Bar Raiser was introduced by another team,to maintain high standards.你需要给这个人和招聘经理留下深刻的印象。
 
 Amazon 比其他公司更倾向于在招聘过程中进行试验。这里描述的过程是典型的面试体验，但是由于 Amazon 的试验，它不一定是通用的。
 
