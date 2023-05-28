@@ -76,7 +76,7 @@ Besides, Amazon tends to ask a lot of questions about object-oriented design. I 
 
 Bar Raiser was introduced by another team to maintain high standards. You need to impress both the person and the hiring manager.
 
-Amazon is more prone to experimentation in its hiring process than other companies. The process described here is a typical interview experience,But thanks to Amazon's experiments,It doesn't have to be universal.
+Amazon is more prone to experimentation in its hiring process than other companies. The process described here is a typical interview experience,but thanks to Amazon's experiments,It doesn't have to be universal.
 
 ### Google 面试
 
