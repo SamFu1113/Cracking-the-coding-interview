@@ -80,7 +80,7 @@ Amazon is more prone to experimentation in its hiring process than other compani
 
 ### Google interview
 
-Rumors abound about Google interviews, but most of them are rumors.Its interviews are actually not that different from Microsoft or Amazon interviews.
+Rumors abound about Google interviews, but most of them are rumors. Its interviews are actually not that different from Microsoft or Amazon interviews.
 
 一位 Google 工程师负责第一次电话面试，因此要对棘手的技术问题有个心理准备。这些问题可能涉及编码，有时需要通过共享文档进行编码。应聘者通常被要求遵守相同的标准，在电话视频面试（phone screens）上被问到的问题与现场面试（on-site）时类似。
 
