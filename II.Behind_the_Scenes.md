@@ -78,7 +78,7 @@ Bar Raiser was introduced by another team to maintain high standards. You need t
 
 Amazon is more prone to experimentation in its hiring process than other companies. The process described here is a typical interview experience, but thanks to Amazon's experiments, it doesn't have to be universal.
 
-### Google 面试
+### Google interview
 
 关于 Google 面试的谣言不绝于耳，但大多数都是谣言。它的面试其实与 Microsoft 或 Amazon 的面试并没有太大不同。
 
