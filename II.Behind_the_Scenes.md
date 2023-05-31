@@ -80,7 +80,7 @@ Amazon is more prone to experimentation in its hiring process than other compani
 
 ### Google interview
 
-关于 Google 面试的谣言不绝于耳，但大多数都是谣言。它的面试其实与 Microsoft 或 Amazon 的面试并没有太大不同。
+Rumors abound about Google interviews.但大多数都是谣言。它的面试其实与 Microsoft 或 Amazon 的面试并没有太大不同。
 
 一位 Google 工程师负责第一次电话面试，因此要对棘手的技术问题有个心理准备。这些问题可能涉及编码，有时需要通过共享文档进行编码。应聘者通常被要求遵守相同的标准，在电话视频面试（phone screens）上被问到的问题与现场面试（on-site）时类似。
 
