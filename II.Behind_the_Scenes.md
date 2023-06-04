@@ -82,7 +82,7 @@ Amazon is more prone to experimentation in its hiring process than other compani
 
 Rumors abound about Google interviews, but most of them are rumors. Its interviews are actually not that different from Microsoft or Amazon interviews.
 
-A Google engineer conducts the first phone interview, so be prepared for tricky technical questions.These issues may involve coding, sometimes it is necessary to code through shared documents.Candidates are generally expected to adhere to the same standards,Questions asked on phone screens are similar to those asked on-site.
+A Google engineer conducts the first phone interview, so be prepared for tricky technical questions.These issues may involve coding, sometimes it is necessary to code through shared documents. Candidates are generally expected to adhere to the same standards,Questions asked on phone screens are similar to those asked on-site.
 
 在现场面试中，你将与四到六个面试官进行面试，其中一个是午餐面试官（lunch interviewer）。每个面试官的反馈对其他面试官是保密的，所以你可以放心，每次面试开始，面试官对你的印象都是空白的。你的午餐面试官不会提交反馈，所以这是一个问诚实问题的好机会。
 
