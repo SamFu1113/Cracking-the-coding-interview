@@ -84,7 +84,7 @@ Rumors abound about Google interviews, but most of them are rumors. Its intervie
 
 A Google engineer conducts the first phone interview, so be prepared for tricky technical questions.These issues may involve coding, sometimes it is necessary to code through shared documents. Candidates are generally expected to adhere to the same standards, and questions asked on phone screens are similar to those asked on-site.
 
-During the on-site interview, you will interview with four to six interviewers during the interview, and one of them is the lunch interviewer. Each interviewer's feedback is confidential from other interviewers.So you can rest assured that at the beginning of every interview, the interviewer's impression of you is blank.你的午餐面试官不会提交反馈，所以这是一个问诚实问题的好机会。
+During the on-site interview, you will interview with four to six interviewers during the interview, and one of them is the lunch interviewer. Each interviewer's feedback is confidential from other interviewers.So you can rest assured that at the beginning of every interview, the interviewer's impression of you is blank.Your lunch interviewer won't submit feedback,所以这是一个问诚实问题的好机会。
 
 面试官通常不会被限定到特定的关注点，我们也无法“结构性”地或“系统”地来回答你什么时候会被问到什么问题。每个面试官都可以按照自己的意愿进行面试。
 
