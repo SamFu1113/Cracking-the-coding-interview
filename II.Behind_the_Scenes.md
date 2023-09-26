@@ -86,7 +86,7 @@ A Google engineer conducts the first phone interview, so be prepared for tricky 
 
 During the on-site interview, you will interview with four to six interviewers during the interview, and one of them is the lunch interviewer. Each interviewer's feedback is confidential from other interviewers.So you can rest assured that at the beginning of every interview, the interviewer's impression of you is blank.Your lunch interviewer won't submit feedback, so this is a good opportunity to ask honest questions.
 
-Interviewers are usually not limited to a specific focus.我们也无法“结构性”地或“系统”地来回答你什么时候会被问到什么问题。每个面试官都可以按照自己的意愿进行面试。
+Interviewers are usually not limited to a specific focus.We also cannot “structure” or “systematically” answer what questions you will be asked when.每个面试官都可以按照自己的意愿进行面试。
 
 书面反馈将提交给由工程师和经理组成的招聘委员会（HC），最终决定是录用还是不录用。面试反馈通常分为四类（分析能力、编码、经验和沟通），总分从 1.0 到 4.0。HC 通常不包括你的任何面试官。如果包括的话，那纯属偶然。
 
