@@ -88,7 +88,7 @@ During the on-site interview, you will interview with four to six interviewers d
 
 Interviewers are usually not limited to a specific focus. Besides, we also cannot “structure” or “systematically” answer what questions you will be asked when. Each interviewer can conduct the interview whatever they wish.
 
-Written feedback will be submitted to the Hiring Committee (HC) consisting of engineers and managers and the final decision is whether to hire or not to hire. Interview feedback usually falls into four categories: (analytical skills, coding, experience and communication),The overall score ranges from 1.0 to 4.0.HC 通常不包括你的任何面试官。如果包括的话，那纯属偶然。
+Written feedback will be submitted to the Hiring Committee (HC) consisting of engineers and managers and the final decision is whether to hire or not to hire. Interview feedback usually falls into four categories: (analytical skills, coding, experience and communication), and The overall score ranges from 1.0 to 4.0.HC 通常不包括你的任何面试官。如果包括的话，那纯属偶然。
 
 若发放 offer，HC 希望看到至少有一位面试官是“狂热的支持者（nthusiastic endorser）”。换句话说，得分分别为 3.6、3.1、3.1 和 2.6 的简历比所有得分都是 3.1 分的简历要好。
 
