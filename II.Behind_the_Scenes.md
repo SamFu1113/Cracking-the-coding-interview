@@ -90,7 +90,7 @@ Interviewers are usually not limited to a specific focus. Besides, we also canno
 
 Written feedback will be submitted to the Hiring Committee (HC) consisting of engineers and managers and the final decision is whether to hire or not to hire. Interview feedback usually falls into four categories: (analytical skills, coding, experience and communication) and the overall score ranges from 1.0 to 4.0. HC usually does not include any of your interviewers. If he(she) was included, it would be purely accidental.
 
-若发放 offer，HC 希望看到至少有一位面试官是“狂热的支持者（nthusiastic endorser）”。换句话说，得分分别为 3.6、3.1、3.1 和 2.6 的简历比所有得分都是 3.1 分的简历要好。
+If an offer is issued,HC 希望看到至少有一位面试官是“狂热的支持者（nthusiastic endorser）”。换句话说，得分分别为 3.6、3.1、3.1 和 2.6 的简历比所有得分都是 3.1 分的简历要好。
 
 你不一定需要在每次面试中都表现出色，你的电话面试表现通常也不是影响最终决定的重要因素。
 
