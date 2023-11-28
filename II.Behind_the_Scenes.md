@@ -92,7 +92,7 @@ Written feedback will be submitted to the Hiring Committee (HC) consisting of en
 
 If an offer is issued, the hc wants to see at least one interviewer who is an "enthusiastic endorser." In other words, a resume that scores 3.6, 3.1, 3.1, and 2.6 is better than a resume that all scores 3.1.
 
-你不一定需要在每次面试中都表现出色，你的电话面试表现通常也不是影响最终决定的重要因素。
+You don't have to do well in every interview, and your phone interview performance usually isn't a big factor in the final decision.
 
 如果 HC 建议发放 offer，你的 packet 将提交给薪酬委员会，然后再提交给执行管理委员会。由于存在许多阶段和委员会，因此返回决策可能需要数周时间。
 
