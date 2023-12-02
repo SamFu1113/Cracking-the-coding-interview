@@ -94,7 +94,7 @@ If an offer is issued, the hc wants to see at least one interviewer who is an "e
 
 You don't have to do well in every interview, and your phone interview performance usually isn't a big factor in the final decision.
 
-If the HC recommends a complimentary offer, your package will be submitted to the Workplace Remuneration Committee. Afterwards, it is then submitted to the Executive Management Committee. Because there are many stages and committees, returning to a decision can take weeks.
+If the HC recommends a complimentary offer, your package will be submitted to the Workplace Remuneration Committee. Afterwards, it is then submitted to the Executive Management Committee. Because there are many stages and committees, returning to a decision can take a few weeks.
 
 #### 必要的准备：
 
