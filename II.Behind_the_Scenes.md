@@ -96,7 +96,7 @@ You don't have to do well in every interview, and your phone interview performan
 
 If the HC recommends a complimentary offer, your package will be submitted to the Workplace Remuneration Committee. Afterwards, it is then submitted to the Executive Management Committee. Because there are many stages and committees, returning to a decision can take a few weeks.
 
-#### 必要的准备：
+#### Necessary preparation:
 
 作为一个基于 web 的公司，Google 关心的是如何设计一个可扩展的系统。因此，请确保你准备好了回答系统设计和可扩展性方面的问题。
 
