@@ -98,7 +98,7 @@ If the HC recommends a complimentary offer, your package will be submitted to th
 
 #### Necessary preparation:
 
-作为一个基于 web 的公司，Google 关心的是如何设计一个可扩展的系统。因此，请确保你准备好了回答系统设计和可扩展性方面的问题。
+As a web-based company，Google 关心的是如何设计一个可扩展的系统。因此，请确保你准备好了回答系统设计和可扩展性方面的问题。
 
 不论经验如何，Google 都非常重视候选人的分析（算法）技能。即使你认为以前的经验值得考虑，你也应该为这些问题做好充分的准备。
 
