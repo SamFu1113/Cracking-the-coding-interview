@@ -100,7 +100,7 @@ If the HC recommends a complimentary offer, your package will be submitted to th
 
 As a web-based company, Google is concerned with how to design a scalable system. Hence，please make sure you are well prepared to answer questions regarding system design and scalability.
 
-Regardless of experience, Google 都非常重视候选人的分析（算法）技能。即使你认为以前的经验值得考虑，你也应该为这些问题做好充分的准备。
+Regardless of experience, Google places great emphasis on candidates' analytical (algorithm) skills. 即使你认为以前的经验值得考虑，你也应该为这些问题做好充分的准备。
 
 #### 不同之处：
 
