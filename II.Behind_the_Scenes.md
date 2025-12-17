@@ -102,7 +102,7 @@ As a web-based company, Google is concerned with how to design a scalable system
 
 Regardless of experience, Google places great emphasis on candidates' analytical (algorithm) skills. Even if you think past experiences are worth considering, you should make full preparations regarding these questions as well.
 
-#### 不同之处：
+#### Differences：
 
 你的面试官不会做出雇用决定。相反，他们会将反馈信息提交给招聘委员会。招聘委员会将给出一个决定，而 Google 高管有权回绝掉这个决定，虽然他们很少这样做。
 
