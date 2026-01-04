@@ -104,7 +104,7 @@ Regardless of experience, Google places great emphasis on candidates' analytical
 
 #### Differences：
 
-Your interviewer will not make the hiring decision. Instead, they will submit the feedback to hiring committee. The hiring committee will make a decision and Google executives have the right to reject the decision though they很少这样做。
+Your interviewer will not make the hiring decision. Instead, they will submit the feedback to hiring committee. The hiring committee will make a decision and Google executives have the right to reject the decision though they rarely这样做。
 
 ### Apple 面试
 
