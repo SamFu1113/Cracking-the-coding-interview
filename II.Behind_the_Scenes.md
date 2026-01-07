@@ -106,7 +106,7 @@ Regardless of experience, Google places great emphasis on candidates' analytical
 
 Your interviewer will not make the hiring decision. Instead, they will submit the feedback to hiring committee. The hiring committee will make a decision and Google executives have the right to reject the decision though they rarely do so.
 
-### Apple 面试
+### Apple Interview
 
 就像 Apple 公司本身一样，Apple 的面试程序也没有什么官僚作风。面试官将寻求优秀的技术技能，但是对职位和公司的热情也很重要。虽然求职者是否为 Mac 用户不是先决条件，但你至少应该熟悉这个系统。
 
