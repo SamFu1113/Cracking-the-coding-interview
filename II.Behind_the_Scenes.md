@@ -108,7 +108,7 @@ Your interviewer will not make the hiring decision. Instead, they will submit th
 
 ### Apple Interview
 
-Just like Apple itself, Apple's interview process is also free of bureaucracy. The interviewer will be looking for excellent technical skills, but passion for the position and the company is also essential的热情也很重要。虽然求职者是否为 Mac 用户不是先决条件，但你至少应该熟悉这个系统。
+Just like Apple itself, Apple's interview process is also free of bureaucracy. The interviewer will be looking for excellent technical skills, but passion for the position and the company is also essential。虽然求职者是否为 Mac 用户不是先决条件，但你至少应该熟悉这个系统。
 
 面试过程通常从招聘人员的电话视频面试开始，了解你的基本技能，然后是一系列与团队成员进行的技术电话视频面试。
 
