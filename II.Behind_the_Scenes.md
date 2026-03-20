@@ -110,7 +110,7 @@ Your interviewer will not make the hiring decision. Instead, they will submit th
 
 Just like Apple itself, Apple's interview process is also free of bureaucracy. The interviewer will be looking for excellent technical skills, but passion for the position and the company is also essential. Although being a Mac user is not a prerequisite, you should at least be familiar the system.
 
-The interview process usually starts with a phone/video interview by the recruiterto know your basic skill, followed by a series of technical video interviews with team members与团队成员进行的技术电话视频面试。
+The interview process usually starts with a phone/video interview by the recruiterto know your basic skill, followed by a series of technical video interviews with team members
 
 一旦你被邀请进入园区，通常会是招募人员来向你打招呼，并向你介绍整个招聘流程。然后，你将与申请的职位所在团队的成员，以及与你团队合作的关键人物，进行进行 6~8 次面试。
 
