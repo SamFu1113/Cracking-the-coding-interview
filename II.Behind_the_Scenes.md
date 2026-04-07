@@ -112,7 +112,7 @@ Just like Apple itself, Apple's interview process is also free of bureaucracy. T
 
 The interview process usually starts with a phone/video interview by the recruiterto know your basic skill, followed by a series of technical video interviews with team members.
 
-Once you are invited to the park, it's usually the recruiter who greets you，并向你介绍整个招聘流程。然后，你将与申请的职位所在团队的成员，以及与你团队合作的关键人物，进行进行 6~8 次面试。
+Once you are invited to the park, it's usually the recruiter who greets you and并向你介绍整个招聘流程。然后，你将与申请的职位所在团队的成员，以及与你团队合作的关键人物，进行进行 6~8 次面试。
 
 你需要对一对一（one-on-one）和二对一（two-on-one）的混合面试有心理预期。准备好在白板上写代码，并确保你所有的想法都清楚地传达出来。午餐是和你未来的潜在经理一起吃的，看起来比较随意，但这仍然是一次面试。每个面试官通常专注于一个不同的领域，通常不提倡与其他面试官分享反馈，除非他们想让后续面试官深入了解一些东西。
 
