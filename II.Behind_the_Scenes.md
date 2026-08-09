@@ -114,7 +114,7 @@ The interview process usually starts with a phone/video interview by the recruit
 
 Once you are invited to the park, it's usually the recruiter who greets you and and explains the whole interview process. Afterwards, you will have 6 to 8 interviews with members of the team for the position you are applying for, as well as key personnel who will be working with.
 
-You needed to be prepared with expectations for the mixed one-on-one & two-on-one interviews. Get ready to write code on the whiteboard and make sure all your ideas are clearly communicated. Lunch is with your future potential manager. It may seem casual, but it is still an interview. Every interviewer usually每个面试官通常专注于一个不同的领域，通常不提倡与其他面试官分享反馈，除非他们想让后续面试官深入了解一些东西。
+You needed to be prepared with expectations for the mixed one-on-one & two-on-one interviews. Get ready to write code on the whiteboard and make sure all your ideas are clearly communicated. Lunch is with your future potential manager. It may seem casual, but it is still an interview. Every interviewer usually 每个面试官通常专注于一个不同的领域，通常不提倡与其他面试官分享反馈，除非他们想让后续面试官深入了解一些东西。
 
 在一天结束时，你的面试官会互相交换意见。如果每个人都觉得你是一个可行的候选人，你将会和你申请的公司的主管和副总裁进行面试。虽然这个决定是非正式的，但如果你到了这一步，是一个很好的迹象。这一决定也会在幕后发生，如果你不通过，你就会被护送出大楼，而（直到现在）你也不会察觉。
 
